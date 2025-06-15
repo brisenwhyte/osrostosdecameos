@@ -18,26 +18,26 @@ const ArtistCard: React.FC<ArtistCardProps> = ({ artist }) => {
         />
       </div>
       
-      <div className="p-6">
-        <h3 className="font-serif font-semibold text-xl text-primary mb-2">
+      <div className="p-4 md:p-6">
+        <h3 className="font-serif font-semibold text-lg md:text-xl text-primary mb-2">
           {artist.name}
         </h3>
         
-        <p className="text-gray-600 text-sm leading-relaxed mb-4 line-clamp-3">
+        <p className="text-gray-600 text-xs md:text-sm leading-relaxed mb-3 md:mb-4 line-clamp-3">
           {artist.biography}
         </p>
         
         <div className="flex items-center justify-between">
-          <span className="text-xs text-gray-500 bg-secondary px-3 py-1 rounded-full">
+          <span className="text-xs text-gray-500 bg-secondary px-2 py-1 rounded-full">
             {artist.portfolio.length} obras
           </span>
           
           <Link 
             to={`/${artist.id}`}
-            className="inline-flex items-center space-x-1 text-primary hover:text-primary/80 transition-colors text-sm font-medium"
+            className="inline-flex items-center space-x-1 text-primary hover:text-primary/80 transition-colors text-xs md:text-sm font-medium"
           >
             <span>Ver perfil</span>
-            <ExternalLink size={14} />
+            <ExternalLink size={12} />
           </Link>
         </div>
       </div>
