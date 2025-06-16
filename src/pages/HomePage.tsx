@@ -84,6 +84,18 @@ const HomePage: React.FC = () => {
           </div>
         </div>
       </section>
+      {/* Poster Section */}
+      <section className="py-8 md:py-12 bg-light">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="bg-white p-4 rounded-lg shadow-md">
+            <img 
+              src="/ROSTOSPOSTER.jpg" 
+              alt="Os Rostos de Camões - Exhibition Poster" 
+              className="w-full h-auto rounded"
+            />
+          </div>
+        </div>
+      </section>
 
             {/* Event Info */}
       <section className="py-12 md:py-16 bg-light">
