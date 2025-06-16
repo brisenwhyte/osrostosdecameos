@@ -27,7 +27,7 @@ export const artists: Artist[] = [
     id: "saviaviegas",
     name: "Sávia Viegas",
     profileImage: "/savia.jpg", // Standardized paths
-    biography: "Savia Viegas is a prominent Indian academic, writer, artist, and curator, primarily based in Carmona, South Goa, India. She is known for her multifaceted work that often delves into the intricate social fabric and cultural nuances of Goa, particularly focusing on the challenges and transformations faced by the region due to modernization.",
+    biography: "Savia Viegas é uma importante acadêmica, escritora, artista e curadora indiana, baseada principalmente em Carmona, South Goa, Índia. Ela é conhecida por seu trabalho multifacetado, que geralmente investiga o intrincado tecido social e as nuances culturais de Goa, particularmente focando nos desafios e transformações enfrentadas pela região devido à modernização.",
     ////academicBackground: "Licenciatura em Belas Artes, Escola Superior de Belas Artes de Lisboa.",
     address: "Rua das Flores, 45, Lisboa",
     contact: "+351 912 345 678",
@@ -129,7 +129,7 @@ export const artists: Artist[] = [
     id: "francisdesousa",
     name: "Francis Desousa",
     profileImage: "/francis.jpg",
-    biography: "Francis Desousa is an accomplished artist who earned his Bachelor of Fine Arts (BFA) from the Goa College of Art in 1984. He has established a broad international clientele, with his work sought after by clients across the United Kingdom, France, and Portugal.",
+    biography: "Francis DeSousa é um artista talentoso que ganhou seu Bacharelado em Belas Artes (BFA) do Goa College of Art em 1984. Ele estabeleceu uma ampla clientela internacional, com seu trabalho procurado por clientes em todo o Reino Unido, França e Portugal.",
     //academicBackground: "BFA, Goa College of Art, 1984.",
     address: "Avenida da República, 123, Porto",
     contact: "+351 923 456 789",
@@ -153,15 +153,15 @@ export const artists: Artist[] = [
     id: "virajnaik",
     name: "Viraj Naik",
     profileImage: "/viraj.jpg",
-    biography: `Viraj Naik is a highly accomplished artist based in Goa, India, renowned for his significant contributions to graphic art and his extensive international presence. His artistic journey began with a Bachelor of Fine Arts (BFA) from Goa College of Art, Panjim, Goa, completed in 1998. He further honed his skills and academic foundation by earning a Master of Fine Arts (MFA) at Sarojini Naidu School of Fine Art, Golden Threshold, Hyderabad, in 2000.
+    biography: `Viraj Naik é um artista altamente talentoso com sede em Goa, Índia, conhecido por suas contribuições significativas à arte gráfica e sua extensa presença internacional. Sua jornada artística começou com um Bacharelado em Belas Artes (BFA) da Goa College of Art, Panjim, Goa, concluído em 1998. Ele aprimorou ainda mais suas habilidades e fundação acadêmica ao ganhar um mestre em belas artes (MFA) em Sarojini Naidu School of Bine Art, Golden Leshold, Hyderabad, em 2000.
 
-Naik's commitment as a practicing artist is evident through his prolific participation in numerous shows since 2000. He has exhibited in prestigious International Graphic Art Biennials, Triennials, and exhibitions across a remarkable array of countries, including India, Belgium (La Boverie, Liège), Italy, Taiwan, Portugal, Bulgaria, Bangladesh, Egypt, the UK ("Hybrid Identities" in Edinburgh), U.S.A, Japan, Australia, Mexico, Canada, Ukraine, Macedonia, Zurich, Abu Dhabi, Thailand, and Uzice, Serbia, among many others.
+Naik's commitment as a practicing artist is evident through his prolific participation in numerous shows since 2000. He has exhibited in prestigious International Graphic Art Biennials, Triennials, and exhibitions across a remarkable array of countries, including India, Belgium (La Boverie, Liège), Italy, Taiwan, Portugal, Bulgaria, Bangladesh, Egypt, the UK ("Hybrid Identities" in Edimburgo), EUA, Japão, Austrália, México, Canadá, Ucrânia, Macedônia, Zurique, Abu Dhabi, Tailândia e Uzice, Sérvia, entre muitos outros.
 
-Beyond his individual artistic practice, Naik has actively contributed to the art community through various leadership and advisory roles. He is a member of several committees related to art and has served as a jury member in Goa and other states of India. His dedication to education and artistic exchange is also notable; he was a guest faculty at Sarojini Naidu School of Fine Arts, University of Hyderabad, in 2002, and served as an Artist-in-Residence at Frans Masereel Centrum, Belgium, in 2012.
+Além de sua prática artística individual, Naik contribuiu ativamente para a comunidade artística através de vários papéis de liderança e consultoria. Ele é membro de vários comitês relacionados à arte e serviu como membro do júri em Goa e em outros estados da Índia. Sua dedicação à educação e troca artística também é notável; Ele era professora convidada na Escola de Belas Artes de Sarojini Naidu, Universidade de Hyderabad, em 2002, e serviu como artista residente em Frans Masereel Centrum, Bélgica, em 2012.
 
-Naik has also played a pivotal role in coordinating significant art initiatives. These include "Look at this Land" Etching portfolio workshop at Sunaparanta-Goa Centre for the Arts in 2012, "Goa is not a small place" at Kalakriti Art Gallery, Hyderabad, India in 2015, the "International Artist Workshop-Goa" in association with Tellus Art, Sweden, in 2013, and "Mini Print Goa 2015" in association with the Directorate of Art and Culture, Goa, in 2015.
+Naik também desempenhou um papel fundamental na coordenação de iniciativas de arte significativas. Isso inclui o workshop de portfólio "Olhe para esta terra" no Centro de Artes de Sunapantara-Goa, em 2012, "Goa não é um pequeno lugar" na Kalakriti Art Gallery, Hyderabad, Índia em 2015, o "Workshop-Goa-Goa 2015", em 2015, em 2015, em 2015, o "Workshop-Goa 2015" em 2015.
 
-Today, Viraj Naik continues to live and practice his art from his studio, "Graphikos," located in Kesarval, Quelossim, Goa, a testament to his deep roots and ongoing dedication to his craft in his home state.`,
+Hoje, Viraj Naik continua vivendo e praticando sua arte em seu estúdio, "Graphikos", localizado em Kesarval, Quelossim, Goa, um testemunho de suas profundas raízes e dedicação contínua ao seu ofício em seu estado de origem.`,
     //academicBackground: "Mestre em Artes Visuais, Universidade de Coimbra.",
     address: "Rua do Ouro, 78, Coimbra",
     contact: "+351 934 567 890",
@@ -233,8 +233,7 @@ exhibitions: [
     id: "nishantsaldanha",
     name: "Nishant Saldanha",
     profileImage: "/nishant.jpg",
-    biography:` Nishant Saldanha is an artist whose practice spans both significant publications and the dynamic field of comics. His insights were recently highlighted in "Memories, Archived: Contemporary Views from South Asia," an artist interview published by the Sunaparanta Goa Centre for the Arts in August 2024. This publication was edited by Dale Luis Menezes, Leandre D’Souza, and Susana Bastos Mateus. 
-    In the realm of comics, Saldanha  participated as an artist at Comic Arts Los Angeles in December 2024. His international recognition includes being selected for the Colorama Club House, an International Comics Residency by Colorama Publishers in Berlin, in August 2022. He has also shared his expertise as a Visiting Artist Lecturer for "Comics: Theory and Practice" at Parsons, New York, in April 2022, and as a Key Speaker for the Visual Culture Lecture Series at the University of Minnesota Duluth in April 2022. A notable achievement in his career was his selection as an artist and book endpapers designer for "The Best American Comics 2019," published by Houghton Mifflin Harcourt in New York in October 2019.`,
+    biography:` Nishant Saldanha é um artista cuja prática abrange publicações significativas e o campo dinâmico dos quadrinhos. Suas idéias foram destacadas recentemente em "Memórias, Arquivadas: Vistas Contemporâneas do Sul da Ásia", uma entrevista de artista publicada pelo Sunapantaranta Goa Center for the Arts em agosto de 2024. Esta publicação foi editada por Dale Luis Menezes, Leandre d'Souza e Susana Bastos Mateus. No campo dos quadrinhos, Saldanha participou como artista da Comic Arts Los Angeles em dezembro de 2024. Seu reconhecimento internacional inclui ser selecionado para o Colorama Club House, uma residência internacional de quadrinhos da Colorama Publishers, em Berlim, em 2022. Série de palestras na Universidade de Minnesota Duluth em abril de 2022. Uma conquista notável em sua carreira foi sua seleção como artista e designer de papéis finais de livros para "The Best American Comics 2019", publicado por Houghton Mifflin Harcourt em Nova York em outubro de 2019.`,
     address: "Praça do Comércio, 12, Lisboa",
     contact: "+351 945 678 901",
     portfolio: [
@@ -264,7 +263,7 @@ exhibitions: [
     id: "shaileshdabholkar",
     name: "Shailesh Dabholkar",
     profileImage: "/shailesh.jpg",
-    biography: "Shailesh V. Dabholkar is a distinguished artist with a strong academic foundation in Fine Art, specializing in painting. He began his formal artistic journey at the Goa College of Art, Goa University, where he pursued his Bachelor of Fine Arts (BFA) in Painting from 2008 to 2012, graduating with First Class honors. Building on this solid base, Dabholkar further honed his skills and expanded his theoretical understanding at the S. N. School of Fine Art, Hyderabad Central University. Here, he completed his Masters in Fine Art (Painting) from 2013 to 2015, achieving a commendable Distinction. His educational background reflects a consistent dedication to artistic excellence and a deep engagement with the discipline of painting.",
+    biography: "Shailesh V. Dabholkar é um artista distinto, com uma forte base acadêmica em belas artes, especializada em pintura. Ele iniciou sua jornada artística formal no Goa College of Art, Goa University, onde perseguiu seu Bacharelado em Belas Artes (BFA) em pintura de 2008 a 2012, se formando com honras de primeira classe. Com base nessa base sólida, Dabholkar aprimorou ainda suas habilidades e expandiu seu entendimento teórico na Escola de Belas Artes de S. N., Hyderabad Central University. Aqui, ele completou seu mestrado em belas artes (pintura) de 2013 a 2015, alcançando uma distinção louvável. Sua formação educacional reflete uma dedicação consistente à excelência artística e um profundo envolvimento com a disciplina da pintura.",
     address: "Rua da Misericórdia, 56, Aveiro",
     contact: "+351 956 789 012",
     portfolio: [
@@ -343,11 +342,11 @@ exhibitions: [
     id: "viteshnaik",
     name: "Vitesh Naik",
     profileImage: "/vitesh.jpg",
-    biography: `Vitesh Naik, born on January 4, 1974, is an accomplished artist with a strong foundation in painting. He distinguished himself academically by earning a Bachelor of Fine Arts in Painting from the Goa College of Art, India, graduating with First Class First honors.
+    biography: `Vitesh Naik, nascido em 4 de janeiro de 1974, é um artista talentoso com uma base forte na pintura. Ele se distinguiu academicamente ao ganhar um Bacharelado em Belas Artes em Pintura pelo Goa College of Art, Índia, se formando com as primeiras honras de primeira classe.
 
-Beyond his artistic practice, Naik has actively contributed to the cultural landscape of Goa through his involvement in judging various community-level competitions. He has frequently served as a judge for state-level children's competitions, as well as for traditional events like Rangoli Competitions, Narkasure competitions, and Ganesh dekhava & Matoli competitions.
+Além de sua prática artística, Naik contribuiu ativamente para o cenário cultural de Goa através de seu envolvimento em julgar várias competições em nível comunitário. Ele freqüentemente atuou como juiz de competições infantis em nível estadual, bem como para eventos tradicionais, como competições de Rangoli, competições de Narkasure e competições de Ganesh Dekhava e Matoli.
 
-Naik's artistic talents extend to large-scale works, having executed numerous murals in major hotels and private residences both within Goa and in other states across India. His versatility is also evident in his illustration work, where he has contributed illustrations for two children's books. Furthermore, Vitesh Naik holds the distinction of being included in 'Infinite Articulation,' Goa’s inaugural book dedicated to its prominent artists, solidifying his place among the region's significant artistic figures.`,
+Os talentos artísticos de Naik se estendem a obras em larga escala, tendo executado vários murais em grandes hotéis e residências particulares, tanto em Goa quanto em outros estados da Índia. Sua versatilidade também é evidente em seu trabalho de ilustração, onde ele contribuiu com ilustrações para dois livros infantis. Além disso, Vitesh Naik mantém a distinção de ser incluída em 'Articulação Infinita', o livro inaugural de Goa dedicado a seus artistas proeminentes, solidificando seu lugar entre as figuras artísticas significativas da região.`,
     address: "Rua Augusta, 234, Lisboa",
     contact: "+351 967 890 123",
     portfolio: [
@@ -795,7 +794,15 @@ exhibitions: [
     id: "verodinaferrao",
     name: "Verodina Ferrao",
     profileImage: "/verodina.jpg",
-    biography: "Artista conceptual e performer, mestre em Arte Contemporânea. Suas obras exploram a relação entre corpo, palavra e espaço, criando experiências imersivas que reinterpretam a herança cultural portuguesa.",
+    biography: `Verodina Ferrao, also known as Verodina Ferrao De Sousa, is a celebrated Goan artist whose work in pottery and ceramic sculpting has left an indelible mark on Goa's artistic landscape. Beginning her journey as a potter, she gradually expanded her craft into sculpting, working with diverse materials such as clay, wood, and stone. Her creations often capture the subtleties of human experience, ranging from lighthearted and whimsical to deeply spiritual, with religious themes frequently appearing in her work.
+
+One of the most striking aspects of Verodina’s artistry is her ability to bring life to public spaces through large-scale outdoor installations. Among her most recognizable works is the fisherwoman sculpture at a traffic island in Panaji, a tribute to the resilient women of Goa’s fishing communities. Another significant piece is the "Risen Christ" at the Bambolim church, a powerful depiction of faith that showcases her skill in conveying emotion through form. Beyond traditional themes, she has also explored contemporary subjects, creating thought-provoking works that reflect the impact of the digital age on human interaction.
+
+Her studio in Karaswada, Mapusa, is a haven for art lovers, nestled in the backyard of her family home. Here, visitors can witness her creative process, from shaping raw clay to applying intricate techniques like raku glazes, which give her ceramic pieces their distinctive finish. The studio is not just a workspace but a living archive of her artistic evolution, where each piece tells a story.
+
+Verodina’s art is deeply intertwined with Goan culture, preserving its traditions while also engaging with modern influences. Her sculptures—whether playful, devotional, or reflective of societal change—serve as a bridge between the past and the present. Through her work, she has become a custodian of Goa’s artistic heritage, ensuring that its stories and emotions are captured in enduring forms.
+
+More than just an artist, Verodina Ferrao is a storyteller whose medium is clay and stone. Her ability to evoke emotion and provoke thought through her sculptures has cemented her place as one of Goa’s most revered contemporary artists. Whether in public installations or intimate studio pieces, her work continues to inspire, reminding viewers of the beauty and complexity of human life.`,
     address: "Rua do Carmo, 89, Porto",
     contact: "+351 978 901 234",
     portfolio: [
@@ -803,10 +810,21 @@ exhibitions: [
      { title: "SOPA DE LETRAS", image: "...", description: "Caramic", price: "₹ 120,000/-", year: "2025" },
     ],
     exhibitions: [
-        { year: "2024", title: "Perspectiva Feminina", location: "Museu de Arte, Coimbra" },
-        { year: "2022", title: "Lente Histórica", location: "Galeria Lumina, Lisboa" },
-        { year: "2020", title: "Instalações Vivas", location: "Espaço Arte, Porto" },
-    ]
+    { year: "1994", title: "Contemporary Colourz", location: "Flying Dutchman Art Gallery, Goa" },
+    { year: "1997", title: "Exhibition of sculptures", location: "Galleria Ralino, Panjim, Goa" },
+    { year: "1997", title: "An exhibition of sculpture", location: "Goa (curated by Wendell Rodericks)" },
+    { year: "1999", title: "Lalit Kala exhibition", location: "Kala Academy, Goa" },
+    { year: "1999", title: "Fado", location: "Jamaat Art Gallery, Mumbai" },
+    { year: "2000", title: "Group show", location: "Art Chambers, Goa" },
+    { year: "2000", title: "Group show", location: "Galeria Jose de Guimaraes, Portugal" },
+    { year: "2001", title: "Festival of India", location: "Port Huron Museum, Michigan, U.S.A." },
+    { year: "2003", title: "Festival of Art", location: "Panjim, Goa" },
+    { year: "2015", title: "Kama Reinvented", location: "Gitanjali" },
+    { year: "2017", title: "She", location: "The Cube" },
+    { year: "2018", title: "Group show", location: "Art Chambers" },
+    { year: "2023", title: "Engraved Treasures", location: "Group show" },
+    { year: "2025", title: "Footprints of Hope", location: "Group show" }
+]
   },
   {
     id: "yolandakammermeier",

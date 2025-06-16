@@ -41,7 +41,7 @@ const ArtistDetailPage: React.FC = () => {
               alt={artist.name} 
               className="w-full aspect-square object-cover rounded-lg shadow-lg mb-4 md:mb-6"
             />
-            <div className="space-y-3 text-gray-700">
+            {/* <div className="space-y-3 text-gray-700">
                 <h3 className="font-serif text-lg md:text-xl font-semibold text-primary border-b pb-2 mb-3">Contacto</h3>
                 <div className="flex items-start space-x-3">
                     <MapPin size={16} className="text-primary/80 mt-0.5 flex-shrink-0" />
@@ -51,7 +51,7 @@ const ArtistDetailPage: React.FC = () => {
                     <Mail size={16} className="text-primary/80 mt-0.5 flex-shrink-0" />
                     <span className="text-xs md:text-sm">{artist.contact}</span>
                 </div>
-            </div>
+            </div> */}
           </div>
 
           {/* Right Column: Bio, Exhibitions, Portfolio */}
@@ -75,7 +75,7 @@ const ArtistDetailPage: React.FC = () => {
             </section>
 
             {/* Portfolio */}
-            <section>
+            {/* <section>
                 <h2 className="font-serif text-xl md:text-2xl font-semibold text-primary mb-3 md:mb-4">Portfólio</h2>
                 <div className="grid grid-cols-1 gap-3 md:gap-4">
                     {artist.portfolio.map(work => (
@@ -86,7 +86,7 @@ const ArtistDetailPage: React.FC = () => {
                         </div>
                     ))}
                 </div>
-            </section>
+            </section> */}
           </div>
         </div>
       </div>
