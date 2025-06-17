@@ -40,6 +40,7 @@ const ArtistCard: React.FC<ArtistCardProps> = ({ artist }) => {
           <Link 
             to={`/${artist.id}`}
             className="inline-flex items-center space-x-1 text-primary hover:text-primary/80 transition-colors text-xs md:text-sm font-medium"
+            onClick={() => window.scrollTo(0, 0)}
           >
             <span>Ver perfil</span>
             <ExternalLink size={12} />

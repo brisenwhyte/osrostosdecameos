@@ -13,8 +13,8 @@ const Footer: React.FC = () => {
                   Os Rostos de Camões
                 </h3>
                 <p className="text-light/80 text-xs md:text-sm leading-relaxed">
-                  Uma celebração dos 500 anos do poeta global através da arte
-                  contemporânea portuguesa.
+                  Uma celebração dos 500 anos do poeta global através da arte contemporânea indo-
+                  portuguesa.
                 </p>
               </div>
 
@@ -38,8 +38,8 @@ const Footer: React.FC = () => {
                   <div className="flex items-center space-x-2">
                     <MapPin size={14} className="md:w-4" />
                     <span className="text-xs md:text-sm">
-                      Camões CLP, Casa Basílio Dias, Rua Dr. Brito Câmara, Goa 403
-                      001
+                      Camões CLP, Casa Basílio Dias, 1st floor
+Rua de Ormuz Road, Panjim, Goa 403 001
                     </span>
                   </div>
                 </div>
@@ -50,9 +50,9 @@ const Footer: React.FC = () => {
                   Contacto
                 </h4>
                 <div className="space-y-1 md:space-y-2 text-light/80">
-                  <p className="text-xs md:text-sm">
+                  {/* <p className="text-xs md:text-sm">
                     Rua Dr. Brito Câmara, Goa 403 001
-                  </p>
+                  </p> */}
                   <p className="text-xs md:text-sm">info@osrostosdecamoes.com</p>
                   <p className="text-xs md:text-sm">+351 213 456 789</p>
                 </div>

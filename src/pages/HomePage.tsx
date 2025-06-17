@@ -13,15 +13,21 @@ const HomePage: React.FC = () => {
           <div className="flex flex-col md:flex-row items-center justify-center gap-6 md:gap-12">
             <div className="text-center md:text-left px-2">
               <h1 className="font-serif text-3xl md:text-4xl lg:text-6xl font-bold mb-4 md:mb-6 leading-tight">
-                Os Rostos de Camões
+                OS ROSTOS DE CAMÕES
               </h1>
               <p className="text-base md:text-xl lg:text-2xl mb-6 md:mb-8 text-light/90 max-w-3xl mx-auto leading-relaxed">
-                Uma celebração dos 500 anos do poeta global através da arte contemporânea portuguesa
+                Uma celebração dos 500 anos do poeta global através da arte contemporânea indo-portuguesa
+              </p>
+              <p className="text-base md:text-xl lg:text-sm mb-6 md:mb-8 text-light/90 max-w-3xl mx-auto leading-relaxed">
+                Um projeto concebido pelo Camões-Centro de Língua Portuguesa em Pangim, com o apoio
+                do Consulado-Geral de Portugal em Goa e do Camões, Instituto da Cooperação e da Língua,
+                I.P., no âmbito das comemorações oficiais dos 500 anos do nascimento de Luís Vaz de
+                Camões.
               </p>
               <div className="flex flex-col sm:flex-row items-center justify-center space-y-3 sm:space-y-0 sm:space-x-4 md:sm:space-x-8 text-light/80">
                 <div className="flex items-center space-x-2">
                   <Calendar size={16} className="md:w-5" />
-                  <span className="text-sm md:text-base">20 de Junho a 2 de Agosto</span>
+                  <span className="text-sm md:text-base">20 de Junho a 2 de Agosto 2025</span>
                 </div>
                 <div className="flex items-center space-x-2">
                   <Users size={16} className="md:w-5" />
@@ -47,19 +53,19 @@ const HomePage: React.FC = () => {
           </h2>
           <div className="prose prose-sm md:prose-lg mx-auto text-gray-700 leading-relaxed">
             <p className="mb-4 md:mb-6">
-              Luis de Camões, o icônico poeta português viveu em um mundo de transição. Sua poesia
-              respirou a vida em seu tempo e em nossos próprios tempos, oferecendo sabedoria e idéias
-              em sua beleza e sua crueldade. Seu trabalho destaca a busca por algo
-              Incrivelmente revolucionário e moderno - a proximidade com a natureza e a busca do humano
-              felicidade em meio à praga do sofrimento.
+              Luís de Camões, o icónico poeta português, viveu num mundo de transição. A sua poesia deu
+              vida ao seu tempo, bem como aos nossos dias, oferecendo sabedoria e uma visão da sua
+              beleza, bem como da sua crueldade. A sua obra destaca a procura de algo incrivelmente
+              revolucionário e moderno - a proximidade com a natureza e a busca da felicidade humana
+              através da devastação do sofrimento.
             </p>
             <p className="mb-4 md:mb-6">
-              Nascido quarenta anos antes de William Shakespeare, em 1525, Camões era o único europeu
-              poeta por ter viajado para outros continentes passando grande parte de sua vida adulta em
-              Ásia e África. Sua grande narrativa os lusíadas considerou -se um épico para
-              O humanismo 'foi roteirizado durante esses dezessete anos de Portugal. Destes,
-              Quatorze foram gastos em Goa e seus cantos, sonetos e comentários aludem a um
-              Goa daquela época, tornando as revelações surpreendentes e perspicazes.
+              Nascido quarenta anos antes de William Shakespeare, em 1525, Camões foi o único poeta
+              europeu que viajou por outros continentes, tendo passado grande parte da sua vida adulta na
+              Ásia e em África. A sua grande narrativa Os Lusíadas, considerada &quot;uma epopeia do
+              humanismo&quot;, foi escrita durante os dezassete anos passados fora de Portugal. Destes, catorze
+              foram vividos no Oriente e em Goa e os seus cantos, sonetos e reflexões aludem a uma Goa
+              desse tempo, fazendo revelações surpreendentes, mas perspicazes.
               </p>
               <p className="mb-4 md:mb-6">
               Ao longo de sua residência aqui, idéias emergentes de vida simples, física
@@ -67,19 +73,28 @@ const HomePage: React.FC = () => {
               proximidade com a natureza, percorre seus sonetos.
               </p>
               <p className="mb-4 md:mb-6">
-              A presença de Camões como homem com letras condenadas ao serviço como um soldado comum emprestado
-              ele uma perspectiva única em um século que estava redefinindo a política do novo
-              economia mundial. Sua luta como escritor e flaneur de seu tempo, com amor, desespero
-              e a corrupção humana, mostrou um rosto de Cameson: sempre amoroso, sempre sofrendo,
-              Sempre lutando, mas totalmente humano.
+              Ao longo da sua estada no Oriente, as ideias emergentes de uma vida simples, de intimidade
+              física face ao amor platónico petrarquiano e de um estilo de vida prosaico e descontraído, de
+              proximidade com a natureza, a sua fauna e flora, percorrem os seus sonetos.
               </p>
               <p className="mb-4 md:mb-6">
-              A exposição em vista apresenta as obras de oito artistas de Goa que celebram a vida
-              e poesia de Camões, destacando sua natureza picante, bem como sua contemporaneidade.
+              A presença de Camões como homem de letras, condenado ao serviço militar comum,
+              permitiu-lhe ter uma perspetiva única de um século que estava a redefinir a política de uma
+              nova economia mundial. A sua luta como escritor e flaneur do seu tempo, com o amor, o
+              desespero e a corrupção humana, revelou-nos um rosto camoniano: sempre amoroso, sempre
+              sofredor, sempre lutador, mas plenamente humano.
               </p>
               <p className="mb-4 md:mb-6">
-              A crítica de dezoito obras, além de celebrar a vida de Camões e recapturar
-              imagens do mundo de seu tempo.
+              A exposição, em exibição de 20 de junho a 2 de agosto de 2025 no CLP em Goa, apresenta as
+              obras de oito artistas e criadores goeses que celebram a vida e a poesia de Camões, realçando
+              o seu carácter subversivo e a sua contemporaneidade.
+            </p>
+              <p className="mb-4 md:mb-6">
+              As dezoito obras satirizam, mas também celebram a vida de Camões, recuperando imagens
+              do mundo do seu tempo.
+            </p>
+            <p className="mb-9 md:mb-9">
+            <strong>Savia Viegas<br/>Artista goesa e curadora da exposição “Os Rostos de Camões”</strong>
             </p>
           </div>
         </div>

@@ -115,7 +115,7 @@ export const artists: Artist[] = [
     {
       year: "2024",
       title: "Cor Ghimache",
-      location: "Quadro Art Gallery"
+      location: "Instituto Camoes"
     },
     {
       year: "2024",
@@ -814,8 +814,9 @@ exhibitions: [
     { year: "2015", title: "Kama Reinvented", location: "Gitanjali" },
     { year: "2017", title: "She", location: "The Cube" },
     { year: "2018", title: "Group show", location: "Art Chambers" },
-    { year: "2023", title: "Engraved Treasures", location: "Group show" },
-    { year: "2025", title: "Footprints of Hope", location: "Group show" }
+    { year: "2023", title: "Engraved Treasures", location: "Goa" },
+    { year: "2025", title: "Footprints of Hope", location: "Goa" },
+    { year: "1997", title: "Verodina curated by Wendell Rodrigues", location: "Goa" }
 ]
   },
   {
