@@ -15,10 +15,7 @@ const HomePage: React.FC = () => {
               <h1 className="font-serif text-3xl md:text-4xl lg:text-6xl font-bold mb-4 md:mb-6 leading-tight">
                 OS ROSTOS DE CAMÕES
               </h1>
-              <p className="text-base md:text-xl lg:text-2xl mb-6 md:mb-8 text-light/90 max-w-3xl mx-auto leading-relaxed">
-                Uma celebração dos 500 anos do poeta global através da arte contemporânea indo-portuguesa
-              </p>
-              <p className="text-base md:text-xl lg:text-sm mb-6 md:mb-8 text-light/90 max-w-3xl mx-auto leading-relaxed">
+              <p className="text-base md:text-sm lg:text-xl mb-6 md:mb-8 text-light/90 max-w-3xl mx-auto leading-relaxed">
                 Um projeto concebido pelo Camões-Centro de Língua Portuguesa em Pangim, com o apoio
                 do Consulado-Geral de Portugal em Goa e do Camões, Instituto da Cooperação e da Língua,
                 I.P., no âmbito das comemorações oficiais dos 500 anos do nascimento de Luís Vaz de
