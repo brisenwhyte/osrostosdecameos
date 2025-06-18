@@ -53,8 +53,8 @@ Rua de Ormuz Road, Panjim, Goa 403 001
                   {/* <p className="text-xs md:text-sm">
                     Rua Dr. Brito Câmara, Goa 403 001
                   </p> */}
-                  <p className="text-xs md:text-sm">info@osrostosdecamoes.com</p>
-                  <p className="text-xs md:text-sm">+351 213 456 789</p>
+                  <p className="text-xs md:text-sm">dcorreiadasilva@camoes.mne.pt</p>
+                  <p className="text-xs md:text-sm">+91 70301 81964</p>
                 </div>
               </div>
             </div>
