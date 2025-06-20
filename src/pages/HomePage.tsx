@@ -70,11 +70,6 @@ const HomePage: React.FC = () => {
               proximidade com a natureza, percorre seus sonetos.
               </p>
               <p className="mb-4 md:mb-6">
-              Ao longo da sua estada no Oriente, as ideias emergentes de uma vida simples, de intimidade
-              física face ao amor platónico petrarquiano e de um estilo de vida prosaico e descontraído, de
-              proximidade com a natureza, a sua fauna e flora, percorrem os seus sonetos.
-              </p>
-              <p className="mb-4 md:mb-6">
               A presença de Camões como homem de letras, condenado ao serviço militar comum,
               permitiu-lhe ter uma perspetiva única de um século que estava a redefinir a política de uma
               nova economia mundial. A sua luta como escritor e flaneur do seu tempo, com o amor, o
