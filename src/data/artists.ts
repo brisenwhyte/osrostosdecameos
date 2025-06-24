@@ -38,90 +38,85 @@ export const artists: Artist[] = [
 
   exhibitions: [
     {
-      year: "2011",
-      title: "Angelo da Fonseca: A Christmas Story",
-      location: "Xavier Institute of Historical Research, Porvorim, Goa."
-    },
-    {
-      year: "2012",
-      title: "Angelo da Fonseca: Passion and Glory",
-      location: "Xavier Institute of Historical Research, Porvorim, Goa."
-    },
-    {
-      year: "2012",
-      title: "Angelo da Fonseca: Maiden, Muse and Madonna",
-      location: "Xavier Institute of Historical Research, Porvorim, Goa."
-    },
-    {
-      year: "2015",
-      title: "Angelo da Fonseca – a Retrospective",
-      location: "Xavier Institute of Historical Research, Porvorim, Goa."
-    },
-    {
-      year: "2022",
-      title: "The Fonsecan Madonna",
-      location: "Xavier Institute of Historical Research, Porvorim, Goa."
-    },
-    {
-      year: "2024",
-      title: "Fonseca: An Indic Lexicon",
-      location: "Xavier Institute of Historical Research, Porvorim, Goa."
-    },
-    {
-      year: "2005",
-      title: "Museum thru Indian Eyes | Photographic exhibition",
-      location: "NCPA"
-    },
-    {
-      year: "2009",
-      title: "Picturing Us | Solo exhibition of paintings",
-      location: "Carmona (My Home)"
-    },
-    {
-      year: "2014",
-      title: "Mementos | Solo exhibition of paintings",
-      location: "Sunaparanta, Panjim, Goa"
-    },
-    {
-      year: "2015",
-      title: "Vignettes from a Visual Narrative | Exhibition of paintings",
-      location: "Fundacao Oriente Art Gallery, Panjim Goa"
-    },
-    {
-      year: "2015",
-      title: "Moments, Memory & Memorabilia",
-      location: "Sunaparanta and Carpe Diem, Goa"
-    },
-    {
-      year: "2015",
-      title: "Moments, Memory & Memorabilia",
-      location: "Xavier’s Centre for Historical Research, Porvorim Goa"
-    },
-    {
-      year: "2015",
-      title: "Blueprints",
-      location: "International Centre, Goa (GALF festivities)"
-    },
-    {
-      year: "2017",
-      title: "Blueprints",
-      location: "University of Lisbon Library showroom"
-    },
-    {
-      year: "2024",
-      title: "Carmona’s Talking Quilt",
-      location: "Museum of Goa (MOG) Pilerne, Goa, India"
-    },
-    {
-      year: "2024",
-      title: "Cor Ghimache",
-      location: "Instituto Camoes"
-    },
-    {
-      year: "2024",
-      title: "Fonseca: An Indic Lexicon",
-      location: "Xavier Institute of Historical Research, Porvorim, Goa"
-    }
+    "year": "2005",
+    "title": "Museum thru Indian Eyes | Photographic exhibition",
+    "location": "NCPA"
+  },
+  {
+    "year": "2009",
+    "title": "Picturing Us | Solo exhibition of paintings",
+    "location": "Carmona (My Home)"
+  },
+  {
+    "year": "2011",
+    "title": "Angelo da Fonseca: A Christmas Story",
+    "location": "Xavier Institute of Historical Research, Porvorim, Goa."
+  },
+  {
+    "year": "2012",
+    "title": "Angelo da Fonseca: Passion and Glory",
+    "location": "Xavier Institute of Historical Research, Porvorim, Goa."
+  },
+  {
+    "year": "2012",
+    "title": "Angelo da Fonseca: Maiden, Muse and Madonna",
+    "location": "Xavier Institute of Historical Research, Porvorim, Goa."
+  },
+  {
+    "year": "2014",
+    "title": "Mementos | Solo exhibition of paintings",
+    "location": "Sunaparanta, Panjim, Goa"
+  },
+  {
+    "year": "2015",
+    "title": "Angelo da Fonseca – a Retrospective",
+    "location": "Xavier Institute of Historical Research, Porvorim, Goa."
+  },
+  {
+    "year": "2015",
+    "title": "Vignettes from a Visual Narrative | Exhibition of paintings",
+    "location": "Fundacao Oriente Art Gallery, Panjim Goa"
+  },
+  {
+    "year": "2015",
+    "title": "Moments, Memory & Memorabilia",
+    "location": "Sunaparanta and Carpe Diem, Goa"
+  },
+  {
+    "year": "2015",
+    "title": "Moments, Memory & Memorabilia",
+    "location": "Xavier’s Centre for Historical Research, Porvorim Goa"
+  },
+  {
+    "year": "2015",
+    "title": "Blueprints",
+    "location": "International Centre, Goa (GALF festivities)"
+  },
+  {
+    "year": "2017",
+    "title": "Blueprints",
+    "location": "University of Lisbon Library showroom"
+  },
+  {
+    "year": "2022",
+    "title": "The Fonsecan Madonna",
+    "location": "Xavier Institute of Historical Research, Porvorim, Goa."
+  },
+  {
+    "year": "2024",
+    "title": "Carmona’s Talking Quilt",
+    "location": "Museum of Goa (MOG) Pilerne, Goa, India"
+  },
+  {
+    "year": "2024",
+    "title": "Cor Ghimache",
+    "location": "Instituto Camoes"
+  },
+  {
+    "year": "2024",
+    "title": "Fonseca: An Indic Lexicon",
+    "location": "Xavier Institute of Historical Research, Porvorim, Goa"
+  }
   ]
 },
   
@@ -138,15 +133,51 @@ export const artists: Artist[] = [
        { title: "NO MUNDO POUCOS ANOS, E CANSADO", image: "...", description: "Watercolour on paper", price: "₹ 70,000/-", year: "2025" },
     ],
     exhibitions: [
-        { year: "2023", title: "State Art Award Exhibition", location: "Goa" },
-        { year: "2017", title: "Group Exhibition", location: "The Radisson" },
-        { year: "2015", title: "Kama Interrupted", location: "Gallery Gitanjali, Panaji" },
-        { year: "2012", title: "Complex machinery confused minds", location: "Gallery 545, Bangalore" },
-        { year: "2008", title: "New Goa Coast to Canvas", location: "Ruchikas Art Gallery, Goa" },
-        { year: "2006", title: "Once upon a Time", location: "Cymroza Art Gallery, Mumbai" },
-        { year: "2001", title: "Festival of India", location: "Germany" },
-        { year: "1999", title: "Fado - Group Exhibition", location: "Jamaat Art Gallery, Mumbai" },
-        { year: "1995", title: "Contemporary Colourz", location: "Flying Dutchman Art Gallery, Goa" }
+{
+    "year": "1995",
+    "title": "Contemporary Colourz",
+    "location": "Flying Dutchman Art Gallery, Goa"
+  },
+  {
+    "year": "1999",
+    "title": "Fado - Group Exhibition",
+    "location": "Jamaat Art Gallery, Mumbai"
+  },
+  {
+    "year": "2001",
+    "title": "Festival of India",
+    "location": "Germany"
+  },
+  {
+    "year": "2006",
+    "title": "Once upon a Time",
+    "location": "Cymroza Art Gallery, Mumbai"
+  },
+  {
+    "year": "2008",
+    "title": "New Goa Coast to Canvas",
+    "location": "Ruchikas Art Gallery, Goa"
+  },
+  {
+    "year": "2012",
+    "title": "Complex machinery confused minds",
+    "location": "Gallery 545, Bangalore"
+  },
+  {
+    "year": "2015",
+    "title": "Kama Interrupted",
+    "location": "Gallery Gitanjali, Panaji"
+  },
+  {
+    "year": "2017",
+    "title": "Group Exhibition",
+    "location": "The Radisson"
+  },
+  {
+    "year": "2023",
+    "title": "State Art Award Exhibition",
+    "location": "Goa"
+  }
     ]
   },
   {
@@ -172,61 +203,61 @@ Hoje, Viraj Naik continua vivendo e praticando sua arte em seu estúdio, "Graphi
        { title: "FACES OF CAMÕES IV", image: "...", description: "Watercolour on paper", price: "₹ 50,000/-", year: "2025" },
     ],
 exhibitions: [
-    {
-      year: "2019",
-      title: "Ordinary Superheroes: Tales from the AniMan Kingdom",
-      location: "Sunaparanta Goa Centre for the Arts, Goa, India"
-    },
-    {
-      year: "2017",
-      title: "Ambrosia de Fabulae",
-      location: "The Art Walkway, Park Hyatt, Hyderabad"
-    },
-    {
-      year: "2013",
-      title: "Hybridization",
-      location: "India Fine Art, Mumbai"
-    },
-    {
-      year: "2010",
-      title: "Seize on",
-      location: "Apparao Galleries, Chennai, India"
-    },
-    {
-      year: "2009",
-      title: "Fanatical Beings",
-      location: "India Fine Art, Mumbai"
-    },
-    {
-      year: "2008",
-      title: "Mythical Menagerie",
-      location: "Visual Arts Centre, Hong Kong"
-    },
-    {
-      year: "2007",
-      title: "Speaking of Otherness",
-      location: "Pundole Art Gallery, Mumbai"
-    },
-    {
-      year: "2007",
-      title: "Landscape with Possible Monsters",
-      location: "Travancore Palace, New Delhi"
-    },
-    {
-      year: "2006",
-      title: "Blue Ants",
-      location: "Lalit Kala Akademi, New Delhi"
-    },
-    {
-      year: "2004",
-      title: "Anxiety",
-      location: "Museum Gallery, Mumbai"
-    },
-    {
-      year: "2003",
-      title: "Metamorphosis",
-      location: "Galeria Cidade de Goa, Goa"
-    }
+      {
+    "year": "2003",
+    "title": "Metamorphosis",
+    "location": "Galeria Cidade de Goa, Goa"
+  },
+  {
+    "year": "2004",
+    "title": "Anxiety",
+    "location": "Museum Gallery, Mumbai"
+  },
+  {
+    "year": "2006",
+    "title": "Blue Ants",
+    "location": "Lalit Kala Akademi, New Delhi"
+  },
+  {
+    "year": "2007",
+    "title": "Speaking of Otherness",
+    "location": "Pundole Art Gallery, Mumbai"
+  },
+  {
+    "year": "2007",
+    "title": "Landscape with Possible Monsters",
+    "location": "Travancore Palace, New Delhi"
+  },
+  {
+    "year": "2008",
+    "title": "Mythical Menagerie",
+    "location": "Visual Arts Centre, Hong Kong"
+  },
+  {
+    "year": "2009",
+    "title": "Fanatical Beings",
+    "location": "India Fine Art, Mumbai"
+  },
+  {
+    "year": "2010",
+    "title": "Seize on",
+    "location": "Apparao Galleries, Chennai, India"
+  },
+  {
+    "year": "2013",
+    "title": "Hybridization",
+    "location": "India Fine Art, Mumbai"
+  },
+  {
+    "year": "2017",
+    "title": "Ambrosia de Fabulae",
+    "location": "The Art Walkway, Park Hyatt, Hyderabad"
+  },
+  {
+    "year": "2019",
+    "title": "Ordinary Superheroes: Tales from the AniMan Kingdom",
+    "location": "Sunaparanta Goa Centre for the Arts, Goa, India"
+  }
   ]
   },
   {
@@ -241,6 +272,11 @@ exhibitions: [
         { title: "THE TEMPTATION OF BACCHUS", image: "...", description: "Diptych acrylic oil pastel and colour-pencil", price: "₹ 90,000/-", year: "2025" },
     ],
 exhibitions: [
+      {
+      year: "2024",
+      title: "ArQhive: Early-Modern Contemporary Visions",
+      location: "Sunaparanta Center for the Arts, Goa"
+    },
     {
       year: "2025",
       title: "Summer Somethings",
@@ -251,11 +287,6 @@ exhibitions: [
       title: "A Dream In The Balcao",
       location: "Goa Open Arts, Goa"
     },
-    {
-      year: "2024",
-      title: "ArQhive: Early-Modern Contemporary Visions",
-      location: "Sunaparanta Center for the Arts, Goa"
-    }
   ]
   
   },
@@ -272,70 +303,70 @@ exhibitions: [
     ],
   exhibitions: [
     {
-      year: "2020",
-      title: "All India Watercolour Camp “DHAROHAR”",
-      location: "Chittorgargh, Rajasthan"
-    },
-    {
-      year: "2019",
-      title: "Group “Azulezo”",
-      location: "Serendipity"
-    },
-    {
-      year: "2019",
-      title: "Group show “Into the Vault”",
-      location: "Museum of Goa (MOG)"
-    },
-    {
-      year: "2019",
-      title: "Work displayed at Lalitkala National Exhibition",
-      location: "Mumbai"
-    },
-    {
-      year: "2018",
-      title: "Work displayed for Art Society of India",
-      location: "Mumbai"
-    },
-    {
-      year: "2017",
-      title: "Video installation",
-      location: "Serendipity Art Festival Goa"
-    },
-    {
-      year: "2017",
-      title: "Participated in a show named “Opus Tinta”",
-      location: "Sanskruti Bhavan, Panjim Goa"
-    },
-    {
-      year: "2016",
-      title: "Goenchi Mati Show",
-      location: "MOG (Museum of Goa)"
-    },
-    {
-      year: "2016",
-      title: "State Art Award for Painting",
-      location: "Unknown"
-    },
-    {
-      year: "2016",
-      title: "Participated in Contemporary Painters Camp “Chitrankan”",
-      location: "Udaipur and Panjim"
-    },
-    {
-      year: "2015",
-      title: "Work displayed at “Mini print” exhibition",
-      location: "Goa"
-    },
-    {
-      year: "2014",
-      title: "Work displayed for Kochi Muziris Student Biennale",
-      location: "Kochi"
-    },
-    {
-      year: "2014",
-      title: "HCU Project work EXHIBITED at WIMBLEDON College of Art",
-      location: "UK"
-    }
+    "year": "2014",
+    "title": "Work displayed for Kochi Muziris Student Biennale",
+    "location": "Kochi"
+  },
+  {
+    "year": "2014",
+    "title": "HCU Project work EXHIBITED at WIMBLEDON College of Art",
+    "location": "UK"
+  },
+  {
+    "year": "2015",
+    "title": "Work displayed at “Mini print” exhibition",
+    "location": "Goa"
+  },
+  {
+    "year": "2016",
+    "title": "Goenchi Mati Show",
+    "location": "MOG (Museum of Goa)"
+  },
+  {
+    "year": "2016",
+    "title": "State Art Award for Painting",
+    "location": "Unknown"
+  },
+  {
+    "year": "2016",
+    "title": "Participated in Contemporary Painters Camp “Chitrankan”",
+    "location": "Udaipur and Panjim"
+  },
+  {
+    "year": "2017",
+    "title": "Video installation",
+    "location": "Serendipity Art Festival Goa"
+  },
+  {
+    "year": "2017",
+    "title": "Participated in a show named “Opus Tinta”",
+    "location": "Sanskruti Bhavan, Panjim Goa"
+  },
+  {
+    "year": "2018",
+    "title": "Work displayed for Art Society of India",
+    "location": "Mumbai"
+  },
+  {
+    "year": "2019",
+    "title": "Group “Azulezo”",
+    "location": "Serendipity"
+  },
+  {
+    "year": "2019",
+    "title": "Group show “Into the Vault”",
+    "location": "Museum of Goa (MOG)"
+  },
+  {
+    "year": "2019",
+    "title": "Work displayed at Lalitkala National Exhibition",
+    "location": "Mumbai"
+  },
+  {
+    "year": "2020",
+    "title": "All India Watercolour Camp “DHAROHAR”",
+    "location": "Chittorgargh, Rajasthan"
+  }
   ]
   },
   {
@@ -355,439 +386,435 @@ Os talentos artísticos de Naik se estendem a obras em larga escala, tendo execu
     ],
 exhibitions: [
     {
-      year: "2024",
-      title: "NEWS - The Art Fest 2024",
-      location: "State Art Gallery, Hyderabad"
-    },
-    {
-      year: "2024",
-      title: "One Square Foot",
-      location: "Monalisa Kalagram, Koregaon Park, Pune"
-    },
-    {
-      year: "2023",
-      title: "Colours of Life",
-      location: "Cymroza Art Gallery, Mumbai"
-    },
-    {
-      year: "2022-2023",
-      title: "Co-existence",
-      location: "Aguada Fort, Goa"
-    },
-    {
-      year: "2022",
-      title: "Posthumous Dialogues with F.N. Souza, homage to Goan Artist",
-      location: "Museum of Goa, Pilerna-Goa"
-    },
-    {
-      year: "2021",
-      title: "Multiple Impressions",
-      location: "Gallery Sala De Arte, Panjim Goa"
-    },
-    {
-      year: "2021",
-      title: "Goa-Gazebo",
-      location: "Bhopal"
-    },
-    {
-      year: "2020",
-      title: "Art Investments 2020",
-      location: "Carpe Diem Art Gallery, Majorda-Goa"
-    },
-    {
-      year: "2019",
-      title: "Intimate Insights",
-      location: "The MonalisaKalagram, Pune"
-    },
-    {
-      year: "2019",
-      title: "Blue God",
-      location: "Taj Holiday Village, Sinkerim-Goa"
-    },
-    {
-      year: "2019",
-      title: "Kanish Bhargava's 'Art & Couture'",
-      location: "Garden Estate, Gurugram"
-    },
-    {
-      year: "2018",
-      title: "The Painted Face – A Tribute to Frida Kahlo",
-      location: "Art Exposure Gallery, Kolkata"
-    },
-    {
-      year: "2017",
-      title: "Opus Tinta",
-      location: "Goa"
-    },
-    {
-      year: "2017",
-      title: "Beads in a thread",
-      location: "Gallery Sala de Kala, Goa"
-    },
-    {
-      year: "2016",
-      title: "Chai Cronicles",
-      location: "Gallery Range, Kolkata"
-    },
-    {
-      year: "2016",
-      title: "Group show",
-      location: "International Centre Goa, Dona Paula"
-    },
-    {
-      year: "2015",
-      title: "Goa is not a small place",
-      location: "Gallery Kalakriti, Hydrabad"
-    },
-    {
-      year: "2015",
-      title: "Beyond Images",
-      location: "Gallery Achies, Chandor, Goa"
-    },
-    {
-      year: "2015",
-      title: "Kama Interrupted",
-      location: "Gallery Gitanjali, Panjim"
-    },
-    {
-      year: "2014",
-      title: "A group show of Goan artist",
-      location: "Gallery Sala De Kala, Goa Velha"
-    },
-    {
-      year: "2014",
-      title: "The Sixth Sense",
-      location: "Hotel Novotel, Candolim"
-    },
-    {
-      year: "2014",
-      title: "Balcao",
-      location: "Stainless & DhoomimalGallery, Delhi"
-    },
-    {
-      year: "2013",
-      title: "Why Not",
-      location: "Sunaparanta, Goa"
-    },
-    {
-      year: "2013",
-      title: "12x12=12000",
-      location: "Casa Goa, Calangute"
-    },
-    {
-      year: "2013",
-      title: "Small is Big",
-      location: "Darbar Hall Gallery, Kochi"
-    },
-    {
-      year: "2013",
-      title: "Five Point Something: A Creative Ensemble",
-      location: "Kala Academy, Panjim"
-    },
-    {
-      year: "2012",
-      title: "12x12=12000",
-      location: "Casa Goa, Calangute"
-    },
-    {
-      year: "2012",
-      title: "Look at this Land",
-      location: "Sunaparanta, Panjim"
-    },
-    {
-      year: "2012",
-      title: "Silent Voices II",
-      location: "Hotel Crown, Panjim, Goa"
-    },
-    {
-      year: "2012",
-      title: "Goa Reloaded",
-      location: "Niv Art Centre, Delhi"
-    },
-    {
-      year: "2012",
-      title: "OsCruzados",
-      location: "Gallery Gitanjali, Panjim, Goa"
-    },
-    {
-      year: "2011",
-      title: "Draw the Line",
-      location: "Sunaparanta, Altinho, Panjim, Goa"
-    },
-    {
-      year: "2011",
-      title: "Silent Voices",
-      location: "Salida del Sol, Panjim, Goa"
-    },
-    {
-      year: "2009",
-      title: "Sacred and Secular",
-      location: "India Fine Art, Mumbai"
-    },
-    {
-      year: "2009",
-      title: "Carnival of Colours",
-      location: "Ruchika Art Gallery, Panjim Goa"
-    },
-    {
-      year: "2008",
-      title: "Neo Goa- Cost to Canvas C",
-      location: "Gallery G, Bangalore"
-    },
-    {
-      year: "2008",
-      title: "Basha/Language",
-      location: "Gallery Nvya, N. Delhi"
-    },
-    {
-      year: "2008",
-      title: "Young Goan Masters",
-      location: "L. K. A., N. Delhi"
-    },
-    {
-      year: "2007",
-      title: "Forms and Figures",
-      location: "Hotel Goan Heritage, Calangute"
-    },
-    {
-      year: "2007",
-      title: "Vismaya",
-      location: "Mahua Art Gallery, Bangalore"
-    },
-    {
-      year: "2007",
-      title: "Paper Love",
-      location: "India Fine Art Gallery, Mumbai"
-    },
-    {
-      year: "2002",
-      title: "A group show",
-      location: "Leela Palace, Dona Sylvia, Goa"
-    },
-    {
-      year: "2001",
-      title: "Creatively Yours",
-      location: "Ponda, Goa"
-    },
-    {
-      year: "2000",
-      title: "Green Palate",
-      location: "Art Chamber, Calangute, Goa"
-    },
-    {
-      year: "2000",
-      title: "Jesus Christ with Indian Contemporary Artist",
-      location: "N.G.M.A., N. Delhi"
-    },
-    {
-      year: "1999",
-      title: "Fado",
-      location: "Jamat in Mumbai"
-    },
-    {
-      year: "1999",
-      title: "Journey II",
-      location: "Kala Academy, Panjim, Goa"
-    },
-    {
-      year: "1997",
-      title: "Journey I",
-      location: "Kala Academy, Panjim, Goa"
-    },
-
-    {
-      year: "2022-2023",
-      title: "Songs of Innocence & Experience",
-      location: "Ahuja Museums of Arts, Kolkata, India"
-    },
-    {
-      year: "2021-2022",
-      title: "Mystical Body",
-      location: "Carpe Diem Gallery, Majorda-Goa"
-    },
-    {
-      year: "2016",
-      title: "Faces",
-      location: "Cafe de Artes, Pondicherry"
-    },
-    {
-      year: "2006",
-      title: "Memories of my Land",
-      location: "Kerkar Art Complex, Calangute, Goa"
-    },
-
-    {
-      year: "2019",
-      title: "Multi-Medium National Art Camp",
-      location: "L.K.A., Mumbai"
-    },
-    {
-      year: "2019",
-      title: "Chitrankan - Contemporary Painters Camp",
-      location: "West Zone Cultural Centre Panjim"
-    },
-    {
-      year: "2014",
-      title: "Miniature Etching Print Camp",
-      location: "Studio of Directorate of Art & Culture, Goa"
-    },
-    {
-      year: "2012",
-      title: "National Painting Camp",
-      location: "L.K.A., Chennai"
-    },
-    {
-      year: "2012",
-      title: "National Etching Print Camp",
-      location: "Sunaparanta, Goa"
-    },
-    {
-      year: "2012",
-      title: "Painting Camp",
-      location: "Studio 215, Mandrem, Goa"
-    },
-    {
-      year: "2011",
-      title: "Etching Workshop",
-      location: "Studio 'The Works', Nagoa, Goa"
-    },
-    {
-      year: "2011",
-      title: "Wild Flowers Camp",
-      location: "International Centre, Dona Paula, Goa"
-    },
-    {
-      year: "2010",
-      title: "8th National Artist Camp",
-      location: "L.K.A., Mizoram"
-    },
-    {
-      year: "2008",
-      title: "Monsoon Expressions Festival",
-      location: "Kala Academy, Goa"
-    },
-    {
-      year: "2008",
-      title: "Residency Programme",
-      location: "Ruchika Art Gallery, Panjim, Goa"
-    },
-    {
-      year: "2007",
-      title: "A workshop in Painting",
-      location: "Ruchika Art Gallery"
-    },
-    {
-      year: "2002",
-      title: "National Artist Camp",
-      location: "L.K.A., Chennai"
-    },
-    {
-      year: "2001",
-      title: "Junior National Artist Camp",
-      location: "A. I. F. A.C.S., N. Delhi"
-    },
-    {
-      year: "2001",
-      title: "Fulbright Mono Print Camp",
-      location: "Art Chamber, Calangute, Goa"
-    },
-    {
-      year: "1999",
-      title: "An workshop of ceramics",
-      location: "Regional Design & Technical Development Centre, Mumbai"
-    },
-    {
-      year: "1999",
-      title: "A workshop of Ceramics",
-      location: "Coconut Brush, Siolim - Goa"
-    },
-    {
-      year: "1998",
-      title: "All India Senior Graphic Camp",
-      location: "Bharat Bhavan, Bhopal"
-    },
-    {
-      year: "1997",
-      title: "Workshop in Ceramic",
-      location: "Portuguese Department at Kala Academy, Panjim, Goa"
-    },
-    {
-      year: "1997",
-      title: "Artists Camp at Daman",
-      location: "West Zone Cultural Centre, Udaipur"
-    },
-
-
-    {
-      year: "2017-2018",
-      title: "Selected work for ‘59th National Exhibition of Art’",
-      location: "Lalita Kala Academy, New Delhi"
-    },
-    {
-      year: "2017",
-      title: "1st National Exhibition",
-      location: "Lalita Kala Academy, Karnataka"
-    },
-    {
-      year: "2012",
-      title: "United Art Fair",
-      location: "PragatiMaidan, N. Delhi"
-    },
-    {
-      year: "2007",
-      title: "Fontainhas Art Festival",
-      location: "Panjim, Goa"
-    },
-    {
-      year: "2002",
-      title: "Platinium Jubilee an Art Exhibition",
-      location: "A. I. F. A.C.S."
-    },
-    {
-      year: "2001",
-      title: "Millenium Art Exhibition",
-      location: "L.K.A. and K.A., Panjim, Goa"
-    },
-    {
-      year: "1999",
-      title: "An exhibition of Goan Artist",
-      location: "L.K.A., N. Delhi"
-    },
-    {
-      year: "1998",
-      title: "Best of the year 98",
-      location: "L.K.A., Chennai"
-    },
-    {
-      year: "1997",
-      title: "Fifty years of Art in Independence of India",
-      location: "A. I. F. A.C.S., N. Delhi"
-    },
-    {
-      year: "1999",
-      title: "Leprosy Eradication by 2000 A.D.' Painting Exhibition",
-      location: "Panjim-Goa"
-    },
-    {
-      year: "1995",
-      title: "Kala Mela Exhibition",
-      location: "Bangalore"
-    },
-    {
-      year: "1995",
-      title: "Aids Awareness Painting Competition",
-      location: "Goa"
-    },
-    {
-      year: "1994",
-      title: "Landscape Exhibition",
-      location: "Mahashala Kala Sangam, Marcel"
-    },
-    {
-      year: "1994-2016",
-      title: "Goa State Art Exhibitions",
-      location: "Panjim, Goa"
-    }
+    "year": "1994",
+    "title": "Landscape Exhibition",
+    "location": "Mahashala Kala Sangam, Marcel"
+  },
+  {
+    "year": "1994-2016",
+    "title": "Goa State Art Exhibitions",
+    "location": "Panjim, Goa"
+  },
+  {
+    "year": "1995",
+    "title": "Kala Mela Exhibition",
+    "location": "Bangalore"
+  },
+  {
+    "year": "1995",
+    "title": "Aids Awareness Painting Competition",
+    "location": "Goa"
+  },
+  {
+    "year": "1997",
+    "title": "Journey I",
+    "location": "Kala Academy, Panjim, Goa"
+  },
+  {
+    "year": "1997",
+    "title": "Workshop in Ceramic",
+    "location": "Portuguese Department at Kala Academy, Panjim, Goa"
+  },
+  {
+    "year": "1997",
+    "title": "Artists Camp at Daman",
+    "location": "West Zone Cultural Centre, Udaipur"
+  },
+  {
+    "year": "1997",
+    "title": "Fifty years of Art in Independence of India",
+    "location": "A. I. F. A.C.S., N. Delhi"
+  },
+  {
+    "year": "1998",
+    "title": "All India Senior Graphic Camp",
+    "location": "Bharat Bhavan, Bhopal"
+  },
+  {
+    "year": "1998",
+    "title": "Best of the year 98",
+    "location": "L.K.A., Chennai"
+  },
+  {
+    "year": "1999",
+    "title": "Fado",
+    "location": "Jamat in Mumbai"
+  },
+  {
+    "year": "1999",
+    "title": "Journey II",
+    "location": "Kala Academy, Panjim, Goa"
+  },
+  {
+    "year": "1999",
+    "title": "An workshop of ceramics",
+    "location": "Regional Design & Technical Development Centre, Mumbai"
+  },
+  {
+    "year": "1999",
+    "title": "A workshop of Ceramics",
+    "location": "Coconut Brush, Siolim - Goa"
+  },
+  {
+    "year": "1999",
+    "title": "An exhibition of Goan Artist",
+    "location": "L.K.A., N. Delhi"
+  },
+  {
+    "year": "1999",
+    "title": "Leprosy Eradication by 2000 A.D.' Painting Exhibition",
+    "location": "Panjim-Goa"
+  },
+  {
+    "year": "2000",
+    "title": "Green Palate",
+    "location": "Art Chamber, Calangute, Goa"
+  },
+  {
+    "year": "2000",
+    "title": "Jesus Christ with Indian Contemporary Artist",
+    "location": "N.G.M.A., N. Delhi"
+  },
+  {
+    "year": "2001",
+    "title": "Creatively Yours",
+    "location": "Ponda, Goa"
+  },
+  {
+    "year": "2001",
+    "title": "Junior National Artist Camp",
+    "location": "A. I. F. A.C.S., N. Delhi"
+  },
+  {
+    "year": "2001",
+    "title": "Fulbright Mono Print Camp",
+    "location": "Art Chamber, Calangute, Goa"
+  },
+  {
+    "year": "2001",
+    "title": "Millenium Art Exhibition",
+    "location": "L.K.A. and K.A., Panjim, Goa"
+  },
+  {
+    "year": "2002",
+    "title": "A group show",
+    "location": "Leela Palace, Dona Sylvia, Goa"
+  },
+  {
+    "year": "2002",
+    "title": "National Artist Camp",
+    "location": "L.K.A., Chennai"
+  },
+  {
+    "year": "2002",
+    "title": "Platinium Jubilee an Art Exhibition",
+    "location": "A. I. F. A.C.S."
+  },
+  {
+    "year": "2006",
+    "title": "Memories of my Land",
+    "location": "Kerkar Art Complex, Calangute, Goa"
+  },
+  {
+    "year": "2007",
+    "title": "Forms and Figures",
+    "location": "Hotel Goan Heritage, Calangute"
+  },
+  {
+    "year": "2007",
+    "title": "Vismaya",
+    "location": "Mahua Art Gallery, Bangalore"
+  },
+  {
+    "year": "2007",
+    "title": "Paper Love",
+    "location": "India Fine Art Gallery, Mumbai"
+  },
+  {
+    "year": "2007",
+    "title": "A workshop in Painting",
+    "location": "Ruchika Art Gallery"
+  },
+  {
+    "year": "2007",
+    "title": "Fontainhas Art Festival",
+    "location": "Panjim, Goa"
+  },
+  {
+    "year": "2008",
+    "title": "Neo Goa- Cost to Canvas C",
+    "location": "Gallery G, Bangalore"
+  },
+  {
+    "year": "2008",
+    "title": "Basha/Language",
+    "location": "Gallery Nvya, N. Delhi"
+  },
+  {
+    "year": "2008",
+    "title": "Young Goan Masters",
+    "location": "L. K. A., N. Delhi"
+  },
+  {
+    "year": "2008",
+    "title": "Monsoon Expressions Festival",
+    "location": "Kala Academy, Goa"
+  },
+  {
+    "year": "2008",
+    "title": "Residency Programme",
+    "location": "Ruchika Art Gallery, Panjim, Goa"
+  },
+  {
+    "year": "2009",
+    "title": "Sacred and Secular",
+    "location": "India Fine Art, Mumbai"
+  },
+  {
+    "year": "2009",
+    "title": "Carnival of Colours",
+    "location": "Ruchika Art Gallery, Panjim Goa"
+  },
+  {
+    "year": "2010",
+    "title": "8th National Artist Camp",
+    "location": "L.K.A., Mizoram"
+  },
+  {
+    "year": "2011",
+    "title": "Draw the Line",
+    "location": "Sunaparanta, Altinho, Panjim, Goa"
+  },
+  {
+    "year": "2011",
+    "title": "Silent Voices",
+    "location": "Salida del Sol, Panjim, Goa"
+  },
+  {
+    "year": "2011",
+    "title": "Etching Workshop",
+    "location": "Studio 'The Works', Nagoa, Goa"
+  },
+  {
+    "year": "2011",
+    "title": "Wild Flowers Camp",
+    "location": "International Centre, Dona Paula, Goa"
+  },
+  {
+    "year": "2012",
+    "title": "12x12=12000",
+    "location": "Casa Goa, Calangute"
+  },
+  {
+    "year": "2012",
+    "title": "Look at this Land",
+    "location": "Sunaparanta, Panjim"
+  },
+  {
+    "year": "2012",
+    "title": "Silent Voices II",
+    "location": "Hotel Crown, Panjim, Goa"
+  },
+  {
+    "year": "2012",
+    "title": "Goa Reloaded",
+    "location": "Niv Art Centre, Delhi"
+  },
+  {
+    "year": "2012",
+    "title": "OsCruzados",
+    "location": "Gallery Gitanjali, Panjim, Goa"
+  },
+  {
+    "year": "2012",
+    "title": "National Painting Camp",
+    "location": "L.K.A., Chennai"
+  },
+  {
+    "year": "2012",
+    "title": "National Etching Print Camp",
+    "location": "Sunaparanta, Goa"
+  },
+  {
+    "year": "2012",
+    "title": "Painting Camp",
+    "location": "Studio 215, Mandrem, Goa"
+  },
+  {
+    "year": "2012",
+    "title": "United Art Fair",
+    "location": "PragatiMaidan, N. Delhi"
+  },
+  {
+    "year": "2013",
+    "title": "Why Not",
+    "location": "Sunaparanta, Goa"
+  },
+  {
+    "year": "2013",
+    "title": "12x12=12000",
+    "location": "Casa Goa, Calangute"
+  },
+  {
+    "year": "2013",
+    "title": "Small is Big",
+    "location": "Darbar Hall Gallery, Kochi"
+  },
+  {
+    "year": "2013",
+    "title": "Five Point Something: A Creative Ensemble",
+    "location": "Kala Academy, Panjim"
+  },
+  {
+    "year": "2014",
+    "title": "A group show of Goan artist",
+    "location": "Gallery Sala De Kala, Goa Velha"
+  },
+  {
+    "year": "2014",
+    "title": "The Sixth Sense",
+    "location": "Hotel Novotel, Candolim"
+  },
+  {
+    "year": "2014",
+    "title": "Balcao",
+    "location": "Stainless & DhoomimalGallery, Delhi"
+  },
+  {
+    "year": "2014",
+    "title": "Miniature Etching Print Camp",
+    "location": "Studio of Directorate of Art & Culture, Goa"
+  },
+  {
+    "year": "2015",
+    "title": "Goa is not a small place",
+    "location": "Gallery Kalakriti, Hydrabad"
+  },
+  {
+    "year": "2015",
+    "title": "Beyond Images",
+    "location": "Gallery Achies, Chandor, Goa"
+  },
+  {
+    "year": "2015",
+    "title": "Kama Interrupted",
+    "location": "Gallery Gitanjali, Panjim"
+  },
+  {
+    "year": "2016",
+    "title": "Chai Cronicles",
+    "location": "Gallery Range, Kolkata"
+  },
+  {
+    "year": "2016",
+    "title": "Group show",
+    "location": "International Centre Goa, Dona Paula"
+  },
+  {
+    "year": "2016",
+    "title": "Faces",
+    "location": "Cafe de Artes, Pondicherry"
+  },
+  {
+    "year": "2017",
+    "title": "Opus Tinta",
+    "location": "Goa"
+  },
+  {
+    "year": "2017",
+    "title": "Beads in a thread",
+    "location": "Gallery Sala de Kala, Goa"
+  },
+  {
+    "year": "2017",
+    "title": "1st National Exhibition",
+    "location": "Lalita Kala Academy, Karnataka"
+  },
+  {
+    "year": "2017-2018",
+    "title": "Selected work for ‘59th National Exhibition of Art’",
+    "location": "Lalita Kala Academy, New Delhi"
+  },
+  {
+    "year": "2018",
+    "title": "The Painted Face – A Tribute to Frida Kahlo",
+    "location": "Art Exposure Gallery, Kolkata"
+  },
+  {
+    "year": "2019",
+    "title": "Intimate Insights",
+    "location": "The MonalisaKalagram, Pune"
+  },
+  {
+    "year": "2019",
+    "title": "Blue God",
+    "location": "Taj Holiday Village, Sinkerim-Goa"
+  },
+  {
+    "year": "2019",
+    "title": "Kanish Bhargava's 'Art & Couture'",
+    "location": "Garden Estate, Gurugram"
+  },
+  {
+    "year": "2019",
+    "title": "Multi-Medium National Art Camp",
+    "location": "L.K.A., Mumbai"
+  },
+  {
+    "year": "2019",
+    "title": "Chitrankan - Contemporary Painters Camp",
+    "location": "West Zone Cultural Centre Panjim"
+  },
+  {
+    "year": "2020",
+    "title": "Art Investments 2020",
+    "location": "Carpe Diem Art Gallery, Majorda-Goa"
+  },
+  {
+    "year": "2021",
+    "title": "Multiple Impressions",
+    "location": "Gallery Sala De Arte, Panjim Goa"
+  },
+  {
+    "year": "2021",
+    "title": "Goa-Gazebo",
+    "location": "Bhopal"
+  },
+  {
+    "year": "2021-2022",
+    "title": "Mystical Body",
+    "location": "Carpe Diem Gallery, Majorda-Goa"
+  },
+  {
+    "year": "2022",
+    "title": "Posthumous Dialogues with F.N. Souza, homage to Goan Artist",
+    "location": "Museum of Goa, Pilerna-Goa"
+  },
+  {
+    "year": "2022-2023",
+    "title": "Co-existence",
+    "location": "Aguada Fort, Goa"
+  },
+  {
+    "year": "2022-2023",
+    "title": "Songs of Innocence & Experience",
+    "location": "Ahuja Museums of Arts, Kolkata, India"
+  },
+  {
+    "year": "2023",
+    "title": "Colours of Life",
+    "location": "Cymroza Art Gallery, Mumbai"
+  },
+  {
+    "year": "2024",
+    "title": "NEWS - The Art Fest 2024",
+    "location": "State Art Gallery, Hyderabad"
+  },
+  {
+    "year": "2024",
+    "title": "One Square Foot",
+    "location": "Monalisa Kalagram, Koregaon Park, Pune"
+  }
   ],
   },
   {
@@ -802,21 +829,81 @@ exhibitions: [
      { title: "SOPA DE LETRAS", image: "...", description: "Caramic", price: "₹ 120,000/-", year: "2025" },
     ],
     exhibitions: [
-    { year: "1994", title: "Contemporary Colourz", location: "Flying Dutchman Art Gallery, Goa" },
-    { year: "1997", title: "Exhibition of sculptures", location: "Galleria Ralino, Panjim, Goa" },
-    { year: "1997", title: "An exhibition of sculpture", location: "Goa (curated by Wendell Rodericks)" },
-    { year: "1999", title: "Lalit Kala exhibition", location: "Kala Academy, Goa" },
-    { year: "1999", title: "Fado", location: "Jamaat Art Gallery, Mumbai" },
-    { year: "2000", title: "Group show", location: "Art Chambers, Goa" },
-    { year: "2000", title: "Group show", location: "Galeria Jose de Guimaraes, Portugal" },
-    { year: "2001", title: "Festival of India", location: "Port Huron Museum, Michigan, U.S.A." },
-    { year: "2003", title: "Festival of Art", location: "Panjim, Goa" },
-    { year: "2015", title: "Kama Reinvented", location: "Gitanjali" },
-    { year: "2017", title: "She", location: "The Cube" },
-    { year: "2018", title: "Group show", location: "Art Chambers" },
-    { year: "2023", title: "Engraved Treasures", location: "Goa" },
-    { year: "2025", title: "Footprints of Hope", location: "Goa" },
-    { year: "1997", title: "Verodina curated by Wendell Rodrigues", location: "Goa" }
+   {
+    "year": "1994",
+    "title": "Contemporary Colourz",
+    "location": "Flying Dutchman Art Gallery, Goa"
+  },
+  {
+    "year": "1997",
+    "title": "Exhibition of sculptures",
+    "location": "Galleria Ralino, Panjim, Goa"
+  },
+  {
+    "year": "1997",
+    "title": "An exhibition of sculpture",
+    "location": "Goa (curated by Wendell Rodericks)"
+  },
+  {
+    "year": "1997",
+    "title": "Verodina curated by Wendell Rodrigues",
+    "location": "Goa"
+  },
+  {
+    "year": "1999",
+    "title": "Lalit Kala exhibition",
+    "location": "Kala Academy, Goa"
+  },
+  {
+    "year": "1999",
+    "title": "Fado",
+    "location": "Jamaat Art Gallery, Mumbai"
+  },
+  {
+    "year": "2000",
+    "title": "Group show",
+    "location": "Art Chambers, Goa"
+  },
+  {
+    "year": "2000",
+    "title": "Group show",
+    "location": "Galeria Jose de Guimaraes, Portugal"
+  },
+  {
+    "year": "2001",
+    "title": "Festival of India",
+    "location": "Port Huron Museum, Michigan, U.S.A."
+  },
+  {
+    "year": "2003",
+    "title": "Festival of Art",
+    "location": "Panjim, Goa"
+  },
+  {
+    "year": "2015",
+    "title": "Kama Reinvented",
+    "location": "Gitanjali"
+  },
+  {
+    "year": "2017",
+    "title": "She",
+    "location": "The Cube"
+  },
+  {
+    "year": "2018",
+    "title": "Group show",
+    "location": "Art Chambers"
+  },
+  {
+    "year": "2023",
+    "title": "Engraved Treasures",
+    "location": "Goa"
+  },
+  {
+    "year": "2025",
+    "title": "Footprints of Hope",
+    "location": "Goa"
+  }
 ]
   },
   {
@@ -834,261 +921,255 @@ She has been invited and has been participating in International Art Camps/Art r
     ],
 exhibitions: [
     {
-      year: "2020-2021",
-      title: "Lockdown Musings...",
-      location: "Art Chamber-Goa"
-    },
-    {
-      year: "2018",
-      title: "Monsoon Clutter",
-      location: "Art Chamber-Goa"
-    },
-    {
-      year: "2016",
-      title: "Alma e a Vida",
-      location: "Art Chamber-Goa"
-    },
-    {
-      year: "2013",
-      title: "Simply Watercolors",
-      location: "Art Chamber-Goa"
-    },
-    {
-      year: "2012",
-      title: "See it my Way",
-      location: "Art Chamber-Goa"
-    },
-    {
-      year: "2011",
-      title: "The Wait",
-      location: "Art Chamber-Goa"
-    },
-    {
-      year: "2011",
-      title: "VIDA",
-      location: "Kunstzentrum - Bremen Germany"
-    },
-    {
-      year: "2010",
-      title: "Once Upon a Time",
-      location: "Hanse Art Fair-Bremen Germany"
-    },
-    {
-      year: "2010",
-      title: "Journey Beyond Time",
-      location: "Wedding Art Gallery-Berlin"
-    },
-    {
-      year: "2009",
-      title: "Destined Destiny",
-      location: "Galerie Gora-Montreal, Canada"
-    },
-    {
-      year: "2009",
-      title: "Apathy",
-      location: "Art Chamber-Goa"
-    },
-    {
-      year: "2006",
-      title: "Yolanda's Recent Works",
-      location: "Right Lines Bangalore"
-    },
-    {
-      year: "2006",
-      title: "Recent Works",
-      location: "Kitab Mahal Mumbai"
-    },
-    {
-      year: "2005",
-      title: "Yesterday....",
-      location: "Chitrakala Parishad Bagalore"
-    },
-    {
-      year: "2005",
-      title: "Faces and Phases...",
-      location: "Art Chamber - Galeria de Belas Artes Goa"
-    },
-    {
-      year: "2003",
-      title: "Saudades...",
-      location: "Galeria Cidade-Goa"
-    },
-    {
-      year: "1998",
-      title: "Bayrn in Februar....",
-      location: "Art Chamber-Goa"
-    },
-    {
-      year: "2025",
-      title: "Liberdade",
-      location: "Artivo Galeria, Fortaleza Brasil"
-    },
-    {
-      year: "2024",
-      title: "International Art Exhibition",
-      location: "Folwark Hawaje, Stara Wiśniewka Poland"
-    },
-    {
-      year: "2022",
-      title: "International Art Exhibition",
-      location: "Toyama Japan"
-    },
-    {
-      year: "2019",
-      title: "International Group Show",
-      location: "Budapest Hungary"
-    },
-    {
-      year: "2018",
-      title: "International Art Exhibition",
-      location: "Marianowo Poland"
-    },
-    {
-      year: "2015",
-      title: "International Art Exhibition",
-      location: "Toyama Japan"
-    },
-    {
-      year: "2015",
-      title: "International Art Exhibition",
-      location: "Lake Valence Town Gallery Hungary"
-    },
-    {
-      year: "2015",
-      title: "International Art Exhibition Artists at Malinitz Austria",
-      location: "Malinitz Austria"
-    },
-    {
-      year: "2014",
-      title: "Incident III-Accident",
-      location: "Czestochowa Museum-Poland"
-    },
-    {
-      year: "2013",
-      title: "International Artists Exhibition",
-      location: "Varos Galeria- Hungary"
-    },
-    {
-      year: "2013",
-      title: "International Artists Exhibition Hajdunanas Hun.",
-      location: "Town Hall Gallery-Hungary"
-    },
-    {
-      year: "2013",
-      title: "International Artists Exhibition Romania",
-      location: "Zerind Art Gallery Arad"
-    },
-    {
-      year: "2012",
-      title: "48th International Artists Exhibition",
-      location: "Varos Galeria- Hungary"
-    },
-    {
-      year: "2011",
-      title: "Little Treasures",
-      location: "Bologna -Italy"
-    },
-    {
-      year: "2011",
-      title: "49th International Artists Exhibition-Varos",
-      location: "Galeria-Hungary"
-    },
-    {
-      year: "2010",
-      title: "Artists at Home and Abroad",
-      location: "Broadway Gallery-New York"
-    },
-    {
-      year: "2008",
-      title: "Biennale de Venizia",
-      location: "Venice Italy"
-    },
-    {
-      year: "2007",
-      title: "Roots & Shoots",
-      location: "Corks Gallery, London"
-    },
-    {
-      year: "2004",
-      title: "Women on Women",
-      location: "Int. Festival of Art Bangalore"
-    },
-    {
-      year: "2004",
-      title: "Women Artists on Amrita Sher Gil",
-      location: "Moskow and Tashkent"
-    },
-    {
-      year: "2001",
-      title: "International Exhibition of Art",
-      location: "Busan Korea"
-    },
-
-    {
-      year: "2024",
-      title: "International Art Meet",
-      location: "Hawaje Poland"
-    },
-    {
-      year: "2022",
-      title: "Toyama International Art Camp by Toyama Prefectural Artistic and Cultural Society",
-      location: "Toyama Japan"
-    },
-    {
-      year: "2018",
-      title: "Toyama International Art Residency organized by the Toyama Prefectural Artistic and Cultural Society",
-      location: "Toyama Japan"
-    },
-    {
-      year: "2015",
-      title: "Toyama International Art Residency organized by the Toyama Prefectural Artistic and Cultural Society",
-      location: "Toyama Japan"
-    },
-    {
-      year: "2015",
-      title: "9th International Symposium of Modern Art d. fleiss & east-west artists",
-      location: "Mallnitz Austria"
-    },
-    {
-      year: "2015",
-      title: "IX. International Symposion",
-      location: "Lake Velence Hungary"
-    },
-    {
-      year: "2015",
-      title: "Inspire Trust International Art Residency",
-      location: "Goa"
-    },
-    {
-      year: "2013",
-      title: "International Artists Camp",
-      location: "Zerind Arad Romania"
-    },
-    {
-      year: "2013",
-      title: "International Art Camp organized by The International Artists Colony",
-      location: "Hajdunanas Hungary"
-    },
-    {
-      year: "2013",
-      title: "International Art Camp organized by The International Artists Colony",
-      location: "Hajdubozsermeny Hungary"
-    },
-    {
-      year: "2013",
-      title: "International Art Camp organized by Tellus Art Sweden and Directorate of Art and Culture",
-      location: "Goa"
-    },
-    {
-      year: "2012",
-      title: "50th International Art Camp organized by The International Artists Colony",
-      location: "Hajdubozsermeny Hungary"
-    },
-    {
-      year: "2011",
-      title: "The International Art Camp organized by The International Artists Colony",
-      location: "Hajdubozsermeny Hungary"
-    }
+    "year": "1998",
+    "title": "Bayrn in Februar....",
+    "location": "Art Chamber-Goa"
+  },
+  {
+    "year": "2001",
+    "title": "International Exhibition of Art",
+    "location": "Busan Korea"
+  },
+  {
+    "year": "2003",
+    "title": "Saudades...",
+    "location": "Galeria Cidade-Goa"
+  },
+  {
+    "year": "2004",
+    "title": "Women on Women",
+    "location": "Int. Festival of Art Bangalore"
+  },
+  {
+    "year": "2004",
+    "title": "Women Artists on Amrita Sher Gil",
+    "location": "Moskow and Tashkent"
+  },
+  {
+    "year": "2005",
+    "title": "Yesterday....",
+    "location": "Chitrakala Parishad Bagalore"
+  },
+  {
+    "year": "2005",
+    "title": "Faces and Phases...",
+    "location": "Art Chamber - Galeria de Belas Artes Goa"
+  },
+  {
+    "year": "2006",
+    "title": "Yolanda's Recent Works",
+    "location": "Right Lines Bangalore"
+  },
+  {
+    "year": "2006",
+    "title": "Recent Works",
+    "location": "Kitab Mahal Mumbai"
+  },
+  {
+    "year": "2007",
+    "title": "Roots & Shoots",
+    "location": "Corks Gallery, London"
+  },
+  {
+    "year": "2008",
+    "title": "Biennale de Venizia",
+    "location": "Venice Italy"
+  },
+  {
+    "year": "2009",
+    "title": "Destined Destiny",
+    "location": "Galerie Gora-Montreal, Canada"
+  },
+  {
+    "year": "2009",
+    "title": "Apathy",
+    "location": "Art Chamber-Goa"
+  },
+  {
+    "year": "2010",
+    "title": "Once Upon a Time",
+    "location": "Hanse Art Fair-Bremen Germany"
+  },
+  {
+    "year": "2010",
+    "title": "Journey Beyond Time",
+    "location": "Wedding Art Gallery-Berlin"
+  },
+  {
+    "year": "2010",
+    "title": "Artists at Home and Abroad",
+    "location": "Broadway Gallery-New York"
+  },
+  {
+    "year": "2011",
+    "title": "The Wait",
+    "location": "Art Chamber-Goa"
+  },
+  {
+    "year": "2011",
+    "title": "VIDA",
+    "location": "Kunstzentrum - Bremen Germany"
+  },
+  {
+    "year": "2011",
+    "title": "Little Treasures",
+    "location": "Bologna -Italy"
+  },
+  {
+    "year": "2011",
+    "title": "49th International Artists Exhibition-Varos",
+    "location": "Galeria-Hungary"
+  },
+  {
+    "year": "2011",
+    "title": "The International Art Camp organized by The International Artists Colony",
+    "location": "Hajdubozsermeny Hungary"
+  },
+  {
+    "year": "2012",
+    "title": "See it my Way",
+    "location": "Art Chamber-Goa"
+  },
+  {
+    "year": "2012",
+    "title": "48th International Artists Exhibition",
+    "location": "Varos Galeria- Hungary"
+  },
+  {
+    "year": "2012",
+    "title": "50th International Art Camp organized by The International Artists Colony",
+    "location": "Hajdubozsermeny Hungary"
+  },
+  {
+    "year": "2013",
+    "title": "Simply Watercolors",
+    "location": "Art Chamber-Goa"
+  },
+  {
+    "year": "2013",
+    "title": "International Artists Exhibition",
+    "location": "Varos Galeria- Hungary"
+  },
+  {
+    "year": "2013",
+    "title": "International Artists Exhibition Hajdunanas Hun.",
+    "location": "Town Hall Gallery-Hungary"
+  },
+  {
+    "year": "2013",
+    "title": "International Artists Exhibition Romania",
+    "location": "Zerind Art Gallery Arad"
+  },
+  {
+    "year": "2013",
+    "title": "International Artists Camp",
+    "location": "Zerind Arad Romania"
+  },
+  {
+    "year": "2013",
+    "title": "International Art Camp organized by The International Artists Colony",
+    "location": "Hajdunanas Hungary"
+  },
+  {
+    "year": "2013",
+    "title": "International Art Camp organized by The International Artists Colony",
+    "location": "Hajdubozsermeny Hungary"
+  },
+  {
+    "year": "2013",
+    "title": "International Art Camp organized by Tellus Art Sweden and Directorate of Art and Culture",
+    "location": "Goa"
+  },
+  {
+    "year": "2014",
+    "title": "Incident III-Accident",
+    "location": "Czestochowa Museum-Poland"
+  },
+  {
+    "year": "2015",
+    "title": "International Art Exhibition",
+    "location": "Toyama Japan"
+  },
+  {
+    "year": "2015",
+    "title": "International Art Exhibition",
+    "location": "Lake Valence Town Gallery Hungary"
+  },
+  {
+    "year": "2015",
+    "title": "International Art Exhibition Artists at Malinitz Austria",
+    "location": "Malinitz Austria"
+  },
+  {
+    "year": "2015",
+    "title": "9th International Symposium of Modern Art d. fleiss & east-west artists",
+    "location": "Mallnitz Austria"
+  },
+  {
+    "year": "2015",
+    "title": "IX. International Symposion",
+    "location": "Lake Velence Hungary"
+  },
+  {
+    "year": "2015",
+    "title": "Inspire Trust International Art Residency",
+    "location": "Goa"
+  },
+  {
+    "year": "2016",
+    "title": "Alma e a Vida",
+    "location": "Art Chamber-Goa"
+  },
+  {
+    "year": "2018",
+    "title": "Monsoon Clutter",
+    "location": "Art Chamber-Goa"
+  },
+  {
+    "year": "2018",
+    "title": "International Art Exhibition",
+    "location": "Marianowo Poland"
+  },
+  {
+    "year": "2018",
+    "title": "Toyama International Art Residency organized by the Toyama Prefectural Artistic and Cultural Society",
+    "location": "Toyama Japan"
+  },
+  {
+    "year": "2019",
+    "title": "International Group Show",
+    "location": "Budapest Hungary"
+  },
+  {
+    "year": "2020-2021",
+    "title": "Lockdown Musings...",
+    "location": "Art Chamber-Goa"
+  },
+  {
+    "year": "2022",
+    "title": "International Art Exhibition",
+    "location": "Toyama Japan"
+  },
+  {
+    "year": "2022",
+    "title": "Toyama International Art Camp by Toyama Prefectural Artistic and Cultural Society",
+    "location": "Toyama Japan"
+  },
+  {
+    "year": "2024",
+    "title": "International Art Exhibition",
+    "location": "Folwark Hawaje, Stara Wiśniewka Poland"
+  },
+  {
+    "year": "2024",
+    "title": "International Art Meet",
+    "location": "Hawaje Poland"
+  },
+  {
+    "year": "2025",
+    "title": "Liberdade",
+    "location": "Artivo Galeria, Fortaleza Brasil"
+  }
   ],
   }
 
