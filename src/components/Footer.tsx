@@ -63,7 +63,7 @@ Rua de Ormuz Road, Panjim, Goa 403 001
             <div className="mt-6 md:mt-8 flex flex-wrap justify-center gap-4 items-center">
               <div className="w-24">
                 <img
-                  src="/logoconsulado.jpg"
+                  src="/logoclp.jpg"
                   alt="Consulado Geral de Portugal em Goa"
                   width={100}
                   height={60}
@@ -72,7 +72,7 @@ Rua de Ormuz Road, Panjim, Goa 403 001
               </div>
               <div className="w-20">
                 <img
-                  src="/selomissao.png"
+                  src="/logo.png"
                   alt="Centenário Missão Comemorações"
                   width={80}
                   height={80}
@@ -81,7 +81,7 @@ Rua de Ormuz Road, Panjim, Goa 403 001
               </div>
               <div className="w-24">
                 <img
-                  src="/logoclp.jpg"
+                  src="/logoconsulado.jpg"
                   alt="Camões Centro de Língua Portuguesa"
                   width={100}
                   height={60}
@@ -90,7 +90,7 @@ Rua de Ormuz Road, Panjim, Goa 403 001
               </div>
               <div className="w-24">
                 <img
-                  src="/logo.png"
+                  src="/selomissao.png"
                   alt="Camões Instituto da Cooperação e da Língua"
                   width={100}
                   height={60}
