@@ -829,71 +829,86 @@ exhibitions: [
      { title: "SOPA DE LETRAS", image: "/verodina2.jpg", description: "Caramic", price: "₹ 120,000/-", year: "2025" },
     ],
     exhibitions: [
-  {
-    "year": "2024",
-    "title": "Footprints of Hope",
-    "location": "Old-Goa"
-  },
-  {
-    "year": "2023",
-    "title": "Engraved Treasures",
-    "location": "Goa"
-  },
-  {
-    "year": "2019",
-    "title": "Group show: Ceu Mar e Prias de Calangute",
-    "location": "Art Chambers, Calangute"
-  },
-  {
-    "year": "2017",
-    "title": "Group Show:She",
-    "location": "The Cube, Moira"
-  },
-  {
-    "year": "2015",
-    "title": "Group Show: Kama Reinvented",
-    "location": "Gitanjali, Panjim"
-  },
-  {
-    "year": "2003",
-    "title": "Festival of Art",
-    "location": "Panjim, Goa"
-  },
-  {
-    "year": "2001",
-    "title": "Festival of India",
-    "location": "Port Huron Museum, Michigan, U.S.A."
-  },
-  {
-    "year": "2000",
-    "title": "Group show",
-    "location": "Galeria Jose de Guimaraes, Portugal"
-  },
-  {
-    "year": "2000",
-    "title": "Group show",
-    "location": "Art Chambers, Goa"
-  },
-  {
-    "year": "1999",
-    "title": "Fado",
-    "location": "Jamaat Art Gallery, Mumbai"
-  },
-  {
-    "year": "1999",
-    "title": "Lalit Kala exhibition",
-    "location": "Kala Academy, Goa"
-  },
-  {
-    "year": "1997",
-    "title": "Verodina curated by Wendell Rodrigues",
-    "location": "Goa"
-  },
-  {
-    "year": "1997",
-    "title": "Exhibition of sculptures",
-    "location": "Galleria Ralino, Panjim, Goa"
-  }
+   {
+      "year": "2024",
+      "title": "Footprints of Hope: group Show",
+      "location": "Old Goa"
+    },
+    {
+      "year": "2023",
+      "title": "Engraved Treasures",
+      "location": "Goa"
+    },
+    {
+      "year": "2021",
+      "title": "Negritude: An exhibition of African Americans artist with Goan artists",
+      "location": "Goa"
+    },
+    {
+      "year": "2019",
+      "title": "Ceu Mar e Prias de Calangute: group show",
+      "location": "Art Chamber Calangute, Goa"
+    },
+    {
+      "year": "2018",
+      "title": "Group Show",
+      "location": "Art Chambers, Calangute, Goa"
+    },
+    {
+      "year": "2017",
+      "title": "She: group Show",
+      "location": "The Cube, Moira"
+    },
+    {
+      "year": "2015",
+      "title": "Kama Reinvented: group Show",
+      "location": "Gitanjali, Panjim"
+    },
+    {
+      "year": "2014",
+      "title": "A brush with faith. Group show",
+      "location": "Pilar"
+    },
+    {
+      "year": "2003",
+      "title": "Festival of Art",
+      "location": "Pangim Goa"
+    },
+    {
+      "year": "2001",
+      "title": "Festival of India",
+      "location": "Port Huron Museum, Michigan USA"
+    },
+    {
+      "year": "2000",
+      "title": "Varied journeys: group show",
+      "location": "Art Chambers, Calangute Goa"
+    },
+    {
+      "year": "2000",
+      "title": "Portugal through the eyes of Goan artistes: group show",
+      "location": "Galeria Jose de Guimaraes, Portugal"
+    },
+    {
+      "year": "1999",
+      "title": "Fado",
+      "location": "Lalit Kala Akademi, Kala Akademi Goa"
+    },
+    {
+      "year": "1999",
+      "title": "Fado: an exhibition of works of Goan artists",
+      "location": "Jamaat art Gallery, Mumbai"
+    },
+    {
+      "year": "1997",
+      "title": "Verodina: an exhibition of sculpture curated by Wendell Rodrigues",
+      "location": "Goa"
+    },
+    {
+      "year": "1997",
+      "title": "Different Strokes: an exhibition of sculptures",
+      "location": "Galleria Ralino, Panjim Goa"
+    }
 ]
   },
   {
