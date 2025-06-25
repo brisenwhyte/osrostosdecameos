@@ -32,8 +32,8 @@ export const artists: Artist[] = [
     address: "Rua das Flores, 45, Lisboa",
     contact: "+351 912 345 678",
     portfolio: [
-      { title: "THE CAMESON JOURNEY I-1553-1580", image: "...", description: "Acrylic on canvas", price: "₹ 50,000/-", year: "2025" },
-      { title: "THE CAMESON JOURNEY II-1563-1567", image: "...", description: "Acrylic on canvas", price: "₹ 50,000/-", year: "2025" },
+      { title: "THE CAMESON JOURNEY I-1553-1580", image: "/savia1.jpg", description: "Acrylic on canvas", price: "₹ 50,000/-", year: "2025" },
+      { title: "THE CAMESON JOURNEY II-1563-1567", image: "/savia2.jpg", description: "Acrylic on canvas", price: "₹ 50,000/-", year: "2025" },
     ],
 
   exhibitions: [
@@ -129,8 +129,8 @@ export const artists: Artist[] = [
     address: "Avenida da República, 123, Porto",
     contact: "+351 923 456 789",
     portfolio: [
-       { title: "PRETIDÃO DE AMOR", image: "...", description: "Watercolour on paper", price: "₹ 70,000/-", year: "2025" },
-       { title: "NO MUNDO POUCOS ANOS, E CANSADO", image: "...", description: "Watercolour on paper", price: "₹ 70,000/-", year: "2025" },
+       { title: "PRETIDÃO DE AMOR", image: "/francis1.jpg", description: "Watercolour on paper", price: "₹ 70,000/-", year: "2025" },
+       { title: "NO MUNDO POUCOS ANOS, E CANSADO", image: "/francis2.jpg", description: "Watercolour on paper", price: "₹ 70,000/-", year: "2025" },
     ],
     exhibitions: [
 {
@@ -197,10 +197,10 @@ Hoje, Viraj Naik continua vivendo e praticando sua arte em seu estúdio, "Graphi
     address: "Rua do Ouro, 78, Coimbra",
     contact: "+351 934 567 890",
     portfolio: [
-       { title: "FACES OF CAMÕES I", image: "...", description: "Watercolour on paper", price: "₹ 50,000/-", year: "2025" },
-       { title: "FACES OF CAMÕES II", image: "...", description: "Watercolour on paper", price: "₹ 50,000/-", year: "2025" },
-       { title: "FACES OF CAMÕES III", image: "...", description: "Watercolour on paper", price: "₹ 50,000/-", year: "2025" },
-       { title: "FACES OF CAMÕES IV", image: "...", description: "Watercolour on paper", price: "₹ 50,000/-", year: "2025" },
+       { title: "FACES OF CAMÕES I", image: "/viraj1.jpg", description: "Watercolour on paper", price: "₹ 50,000/-", year: "2025" },
+       { title: "FACES OF CAMÕES II", image: "/viraj2.jpg", description: "Watercolour on paper", price: "₹ 50,000/-", year: "2025" },
+       { title: "FACES OF CAMÕES III", image: "/viraj3.jpg", description: "Watercolour on paper", price: "₹ 50,000/-", year: "2025" },
+       { title: "FACES OF CAMÕES IV", image: "/viraj4.jpg", description: "Watercolour on paper", price: "₹ 50,000/-", year: "2025" },
     ],
 exhibitions: [
 {
@@ -268,8 +268,8 @@ exhibitions: [
     address: "Praça do Comércio, 12, Lisboa",
     contact: "+351 945 678 901",
     portfolio: [
-        { title: "ADAMASTOR WEEPS", image: "...", description: "Diptych acrylic oil pastel and colour-pencil", price: "₹ 90,000/-", year: "2025" },
-        { title: "THE TEMPTATION OF BACCHUS", image: "...", description: "Diptych acrylic oil pastel and colour-pencil", price: "₹ 90,000/-", year: "2025" },
+        { title: "ADAMASTOR WEEPS", image: "/nishant1.jpg", description: "Diptych acrylic oil pastel and colour-pencil", price: "₹ 90,000/-", year: "2025" },
+        { title: "THE TEMPTATION OF BACCHUS", image: "/nishant2.jpg", description: "Diptych acrylic oil pastel and colour-pencil", price: "₹ 90,000/-", year: "2025" },
     ],
 exhibitions: [
     {
@@ -298,8 +298,8 @@ exhibitions: [
     address: "Rua da Misericórdia, 56, Aveiro",
     contact: "+351 956 789 012",
     portfolio: [
-       { title: "ESPELHO DA ALMA", image: "...", description: "Watercolour on paper", price: "₹ 50,000/-", year: "2025" },
-       { title: "THE CRAB WHO ATE MY EYE", image: "...", description: "Watercolour on paper", price: "₹ 50,000/-", year: "2025" },
+       { title: "ESPELHO DA ALMA", image: "/shailesh1.jpg", description: "Watercolour on paper", price: "₹ 50,000/-", year: "2025" },
+       { title: "THE CRAB WHO ATE MY EYE", image: "/shailesh2.jpg", description: "Watercolour on paper", price: "₹ 50,000/-", year: "2025" },
     ],
   exhibitions: [
   {
@@ -381,8 +381,8 @@ Os talentos artísticos de Naik se estendem a obras em larga escala, tendo execu
     address: "Rua Augusta, 234, Lisboa",
     contact: "+351 967 890 123",
     portfolio: [
-        { title: "CAMÕES I LONGING", image: "...", description: "Mixed media on paper", price: "₹ 50,000/-", year: "2025" },
-        { title: "CAMÕES II TIME", image: "...", description: "Mixed media on paper", price: "₹ 50,000/-", year: "2025" }
+        { title: "CAMÕES I LONGING", image: "/vitesh1.jpg", description: "Mixed media on paper", price: "₹ 50,000/-", year: "2025" },
+        { title: "CAMÕES II TIME", image: "/vitesh2.jpg", description: "Mixed media on paper", price: "₹ 50,000/-", year: "2025" }
     ],
 exhibitions: [
     {
@@ -825,8 +825,8 @@ exhibitions: [
     address: "Rua do Carmo, 89, Porto",
     contact: "+351 978 901 234",
     portfolio: [
-     { title: "CANÇÃO DO AMOR", image: "...", description: "Caramic", price: "₹ 70,000/-", year: "2025" },
-     { title: "SOPA DE LETRAS", image: "...", description: "Caramic", price: "₹ 120,000/-", year: "2025" },
+     { title: "CANÇÃO DO AMOR", image: "/verodina1.jpg", description: "Caramic", price: "₹ 70,000/-", year: "2025" },
+     { title: "SOPA DE LETRAS", image: "/verodina2.jpg", description: "Caramic", price: "₹ 120,000/-", year: "2025" },
     ],
     exhibitions: [
   {
@@ -906,8 +906,8 @@ She has been invited and has been participating in International Art Camps/Art r
     address: "Avenida dos Aliados, 167, Porto",
     contact: "+351 989 012 345",
     portfolio: [
-      { title: "CAMÕES NA PRAIA DE CALAMGUTE, NOVEMBRO DE 1953", image: "...", description: "Acrylic on Canvas", price: "₹ 250,000/-", year: "2025" },
-      { title: "CAMÕES E PANJIM HOJE", image: "...", description: "Acrylic on Canvas", price: "₹ 250,000/-", year: "2025" },
+      { title: "CAMÕES NA PRAIA DE CALAMGUTE, NOVEMBRO DE 1953", image: "/yolanda1.jpg", description: "Acrylic on Canvas", price: "₹ 250,000/-", year: "2025" },
+      { title: "CAMÕES E PANJIM HOJE", image: "/yolanda2.jpg", description: "Acrylic on Canvas", price: "₹ 250,000/-", year: "2025" },
     ],
 exhibitions: [
     {

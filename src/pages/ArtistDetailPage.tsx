@@ -75,7 +75,7 @@ const ArtistDetailPage: React.FC = () => {
             </section>
 
             {/* Portfolio */}
-            {/* <section>
+            <section>
                 <h2 className="font-serif text-xl md:text-2xl font-semibold text-primary mb-3 md:mb-4">Portfólio</h2>
                 <div className="grid grid-cols-1 gap-3 md:gap-4">
                     {artist.portfolio.map(work => (
@@ -86,7 +86,7 @@ const ArtistDetailPage: React.FC = () => {
                         </div>
                     ))}
                 </div>
-            </section> */}
+            </section>
           </div>
         </div>
       </div>

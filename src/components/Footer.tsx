@@ -72,7 +72,7 @@ Rua de Ormuz Road, Panjim, Goa 403 001
               </div>
               <div className="w-20">
                 <img
-                  src="/logo.png"
+                  src="/logoconsulado.jpg"
                   alt="Centenário Missão Comemorações"
                   width={80}
                   height={80}
@@ -81,7 +81,7 @@ Rua de Ormuz Road, Panjim, Goa 403 001
               </div>
               <div className="w-24">
                 <img
-                  src="/logoconsulado.jpg"
+                  src="/logo.png"
                   alt="Camões Centro de Língua Portuguesa"
                   width={100}
                   height={60}
