@@ -90,7 +90,7 @@ const ArtistDetailPage: React.FC = () => {
                 <div className="md:w-2/3">
                     <h4 className="font-semibold text-sm md:text-base text-gray-800">{work.title} ({work.year})</h4>
                     <p className="text-xs md:text-sm text-gray-600 mt-1">{work.description}</p>
-                    <p className="text-xs md:text-sm text-gray-600 mt-1 font-medium">{work.price}</p>
+                    {/* <p className="text-xs md:text-sm text-gray-600 mt-1 font-medium">{work.price}</p> */}
                 </div>
               </div>
             ))}
