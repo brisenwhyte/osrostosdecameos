@@ -906,7 +906,7 @@ She has been invited and has been participating in International Art Camps/Art r
     address: "Avenida dos Aliados, 167, Porto",
     contact: "+351 989 012 345",
     portfolio: [
-      { title: "CAMÕES NA PRAIA DE CALAMGUTE, NOVEMBRO DE 1953", image: "/yolanda1.jpg", description: "Acrylic on Canvas", price: "₹ 250,000/-", year: "2025" },
+      { title: "CAMÕES NA PRAIA DE CALAMGUTE, NOVEMBRO DE 1553", image: "/yolanda1.jpg", description: "Acrylic on Canvas", price: "₹ 250,000/-", year: "2025" },
       { title: "CAMÕES E PANJIM HOJE", image: "/yolanda2.jpg", description: "Acrylic on Canvas", price: "₹ 250,000/-", year: "2025" },
     ],
 exhibitions: [

@@ -76,16 +76,25 @@ const ArtistDetailPage: React.FC = () => {
 
             {/* Portfolio */}
             <section>
-                <h2 className="font-serif text-xl md:text-2xl font-semibold text-primary mb-3 md:mb-4">Portfólio</h2>
-                <div className="grid grid-cols-1 gap-3 md:gap-4">
-                    {artist.portfolio.map(work => (
-                        <div key={work.title} className="bg-secondary/30 p-3 md:p-4 rounded-lg">
-                            <h4 className="font-semibold text-sm md:text-base text-gray-800">{work.title} ({work.year})</h4>
-                            <p className="text-xs md:text-sm text-gray-600">{work.description}</p>
-                            <p className="text-xs md:text-sm text-gray-600">{work.price}</p>
-                        </div>
-                    ))}
+            <h2 className="font-serif text-xl md:text-2xl font-semibold text-primary mb-3 md:mb-4">Portfólio</h2>
+            <div className="grid grid-cols-1 gap-3 md:gap-4">
+              {artist.portfolio.map(work => (
+            <div key={work.title} className="bg-secondary/30 p-3 md:p-4 rounded-lg flex flex-col md:flex-row gap-4">
+                <div className="md:w-1/3">
+                    <img 
+                        src={work.image} 
+                        alt={work.title} 
+                        className="w-full h-auto max-h-64 object-contain rounded-lg"
+                    />
                 </div>
+                <div className="md:w-2/3">
+                    <h4 className="font-semibold text-sm md:text-base text-gray-800">{work.title} ({work.year})</h4>
+                    <p className="text-xs md:text-sm text-gray-600 mt-1">{work.description}</p>
+                    <p className="text-xs md:text-sm text-gray-600 mt-1 font-medium">{work.price}</p>
+                </div>
+              </div>
+            ))}
+            </div>
             </section>
           </div>
         </div>
