@@ -65,9 +65,9 @@ const HomePage: React.FC = () => {
               desse tempo, fazendo revelações surpreendentes, mas perspicazes.
               </p>
               <p className="mb-4 md:mb-6">
-              Ao longo de sua residência aqui, idéias emergentes de vida simples, física
-              intimidade em relação ao amor platônico de Petrarchan, e um estilo de vida protean e descontraído de
-              proximidade com a natureza, percorre seus sonetos.
+              Ao longo da sua estada no Oriente, as ideias emergentes de uma vida simples, de intimidade física
+              face ao amor platónico petrarquiano e de um estilo de vida prosaico e descontraído, de proximidade
+              com a natureza, a sua fauna e flora, percorrem os seus sonetos.
               </p>
               <p className="mb-4 md:mb-6">
               A presença de Camões como homem de letras, condenado ao serviço militar comum,
