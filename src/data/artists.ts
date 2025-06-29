@@ -924,8 +924,8 @@ beleza e a complexidade da vida humana.`,
     address: "Rua do Carmo, 89, Porto",
     contact: "+351 978 901 234",
     portfolio: [
-     { title: "SOPA DE LETRAS", image: "/verodina1.jpg", description: "Caramic", price: "₹ 70,000/-", year: "2025" },
-     { title: "CANÇÃO DO AMOR", image: "/verodina2.jpg", description: "Caramic", price: "₹ 120,000/-", year: "2025" },
+     { title: "CANÇÃO DO AMOR", image: "/verodina1.jpg", description: "Caramic", price: "₹ 70,000/-", year: "2025" },
+     { title: "SOPA DE LETRAS", image: "/verodina2.jpg", description: "Caramic", price: "₹ 120,000/-", year: "2025" },
     ],
     exhibitions: [
    {
@@ -1033,8 +1033,8 @@ carreira.`,
     address: "Avenida dos Aliados, 167, Porto",
     contact: "+351 989 012 345",
     portfolio: [
-      { title: "CAMÕES NA PRAIA DE CALANGUTE, NOVEMBRO DE 1553", image: "/yolanda1.jpg", description: "Acrylic on Canvas", price: "₹ 250,000/-", year: "2025" },
-      { title: "CAMÕES E PANJIM HOJE", image: "/yolanda2.jpg", description: "Acrylic on Canvas", price: "₹ 250,000/-", year: "2025" },
+      { title: "CAMÕES E PANJIM HOJE", image: "/yolanda1.jpg", description: "Acrylic on Canvas", price: "₹ 250,000/-", year: "2025" },
+      { title: "CAMÕES NA PRAIA DE CALANGUTE, NOVEMBRO DE 1553", image: "/yolanda2.jpg", description: "Acrylic on Canvas", price: "₹ 250,000/-", year: "2025" },
     ],
 exhibitions: [
     {
